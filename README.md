@@ -5,6 +5,7 @@ A curated list of tools for incident response
 
 - [Disk Image Creation Tools](#disk-image-creation-tools)
 - [Memory Analysis Tools](#memory-analysis-tools)
+- [Memory Imaging Tools](#memory-imaging-tools)
 
 ## IR tools Collection
 
@@ -23,3 +24,6 @@ A curated list of tools for incident response
 * [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - Computer memory analysis tools 
 
+### Memory Imaging Tools
+* [OSForensics](http://www.osforensics.com/) - OSForensics can acquire live memory on 32bit and 64bit systems. A dump of an individual process’s memory space or physical memory dump can be done
+* [Belkasoft Live RAM Capturer](http://forensic.belkasoft.com/en/ram-capturer) - A tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system
