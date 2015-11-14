@@ -8,6 +8,7 @@ A curated list of tools for incident response
 - [Memory Imaging Tools](#memory-imaging-tools)
 - [Process Dump Tools](#process-dump-tools)
 - [All in one tools](#all-in-one-tools)
+- [Videos](#videos)
 
 ## IR tools Collection
 
@@ -37,3 +38,6 @@ A curated list of tools for incident response
 * [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - The Sleuth Kit is a Unix and Windows based tool which helps in forensic analysis of computers. It comes with various tools which helps in digital forensics. These tools help in analyzing disk images, performing in-depth analysis of file systems, and various other things
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Open Computer Forensics Architecture (OCFA) is another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data
 * [Digital Forensics Framework](http://www.arxsys.fr/discover/) - DFF is an Open Source computer forensics platform built on top of a dedicated Application Programming Interface (API). DFF proposes an alternative to the aging digital forensics solutions used today. Designed for simple use and automation, the DFF interface guides the user through the main steps of a digital investigation so it can be used by both professional and non-expert to quickly and easily conduct a digital investigations and perform incident response
+
+### Videos
+* [Demisto video resources](https://www.demisto.com/videos/) - Video Resources for Incident Response and Forensics Tools
