@@ -40,4 +40,4 @@ A curated list of tools for incident response
 * [Digital Forensics Framework](http://www.arxsys.fr/discover/) - DFF is an Open Source computer forensics platform built on top of a dedicated Application Programming Interface (API). DFF proposes an alternative to the aging digital forensics solutions used today. Designed for simple use and automation, the DFF interface guides the user through the main steps of a digital investigation so it can be used by both professional and non-expert to quickly and easily conduct a digital investigations and perform incident response
 
 ### Videos
-* [Demisto video resources](https://www.demisto.com/videos/) - Video Resources for Incident Response and Forensics Tools
+* [Demisto IR video resources](https://www.demisto.com/videos/) - Video Resources for Incident Response and Forensics Tools
