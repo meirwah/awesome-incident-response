@@ -7,6 +7,7 @@ A curated list of tools for incident response
 - [Memory Analysis Tools](#memory-analysis-tools)
 - [Memory Imaging Tools](#memory-imaging-tools)
 - [Process Dump Tools](#process-dump-tools)
+- [Timeline tools](#timeline-tools)
 - [All in one tools](#all-in-one-tools)
 - [Videos](#videos)
 
@@ -32,6 +33,10 @@ A curated list of tools for incident response
 ### Process Dump Tools
 * [PMDump](http://ntsecurity.nu/toolbox/pmdump/) - PMDump is a tool that lets you dump the memory contents of a process to a file without stopping the process
 * [Microsoft User Mode Process Dumper](http://www.microsoft.com/en-us/download/details.aspx?id=4060) - The User Mode Process Dumper (userdump) dumps any running Win32 processes memory image on the fly
+
+### Timeline tools
+* [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline
+* [Timesketch](https://github.com/google/timesketch) -open source tool for collaborative forensic timeline analysis
 
 ### All in one Tools
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - X-Ways is a forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis
