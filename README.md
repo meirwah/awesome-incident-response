@@ -51,3 +51,4 @@ A curated list of tools for incident response
 
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/videos/) - Video Resources for Incident Response and Forensics Tools
+* [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
