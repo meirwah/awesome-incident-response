@@ -9,6 +9,7 @@ A curated list of tools for incident response
 - [Process Dump Tools](#process-dump-tools)
 - [Timeline tools](#timeline-tools)
 - [All in one tools](#all-in-one-tools)
+- [Incident Management](#incident-management)
 - [Other tools](#other-tools)
 - [Videos](#videos)
 
