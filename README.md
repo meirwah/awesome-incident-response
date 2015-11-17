@@ -59,5 +59,5 @@ A curated list of tools for incident response
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 
 ### Videos
-* [Demisto IR video resources](https://www.demisto.com/videos/) - Video Resources for Incident Response and Forensics Tools
+* [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
