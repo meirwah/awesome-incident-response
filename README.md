@@ -9,6 +9,7 @@ A curated list of tools for incident response
 - [Process Dump Tools](#process-dump-tools)
 - [Timeline tools](#timeline-tools)
 - [All in one tools](#all-in-one-tools)
+- [Incident Management](#incident-management)
 - [Other tools](#other-tools)
 - [Videos](#videos)
 
@@ -53,10 +54,15 @@ A curated list of tools for incident response
 ### Incident Management
 * [FIR](https://github.com/certsocietegenerale/FIR/) - Fast Incident Response (FIR) is an cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents and is useful for CSIRTs, CERTs and SOCs alike.
 * [SCOT](http://getscot.sandia.gov/) - Sandia Cyber Omni Tracker (SCOT) is an Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
+* [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
+
 
 
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
+* [FECT](https://github.com/jipegit/FECT) - Fast Evidence Collector Toolkit (FECT) is a light incident response toolkit to collect evidences on a suspicious Windows computer. Basically it is intended to be used by non-tech savvy people working with a journeyman Incident Handler.
+* [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell. 
+
 
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
