@@ -59,6 +59,7 @@ A curated list of tools for incident response
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [FECT](https://github.com/jipegit/FECT) - Fast Evidence Collector Toolkit (FECT) is a light incident response toolkit to collect evidences on a suspicious Windows computer. Basically it is intended to be used by non-tech savvy people working with a journeyman Incident Handler.
+* [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell. 
 
 
 ### Videos
