@@ -27,7 +27,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [WindowsSCOPE](http://www.windowsscope.com/index.php?page=shop.product_details&flypage=flypage.tpl&product_id=35&category_id=3&option=com_virtuemart) - another memory forensics and reverse engineering tool used for analyzing volatile memory. It is basically used for reverse engineering of malwares. It provides the capability of analyzing the Windows kernel, drivers, DLLs, virtual and physical memory
 * [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO is the industry standard physical memory and automated malware analysis solution
 * [KnTList](http://www.gmgsystemsinc.com/knttools/) - Computer memory analysis tools
-* [Rekall](http://www.rekall-forensic.com/) open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples
+* [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples
 
 ### Memory Imaging Tools
 * [OSForensics](http://www.osforensics.com/) - OSForensics can acquire live memory on 32bit and 64bit systems. A dump of an individual process’s memory space or physical memory dump can be done
