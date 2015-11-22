@@ -10,6 +10,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Timeline tools](#timeline-tools)
 - [All in one tools](#all-in-one-tools)
 - [Incident Management](#incident-management)
+- [Data Collection](#data-collection)
 - [Other tools](#other-tools)
 - [Videos](#videos)
 
