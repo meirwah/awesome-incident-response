@@ -66,6 +66,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell. 
+* [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
 
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
