@@ -77,16 +77,13 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Cuckoo](https://github.com/cuckoobox) - Open Source Highly configurable sandboxing tool 
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 * [Viper](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA.
-* [Virustotal](Virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
-* [Malwr](malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
+* [Virustotal](https://irustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
+* [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell. 
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
-* [Etherpad](https://github.com/ether/etherpad-lite) - Good collaboration tool, similar to google doc but doesnt store data in the cloud.
-* [Kibana](https://github.com/elastic/kibana) - Big Data analytics and visualization platform
-* [Elastic Search](https://github.com/elastic/elasticsearch) - Big Data solution for Real-time searching and analytics
 
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
