@@ -33,7 +33,6 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Memory Imaging Tools
 * [OSForensics](http://www.osforensics.com/) - OSForensics can acquire live memory on 32bit and 64bit systems. A dump of an individual process’s memory space or physical memory dump can be done
 * [Belkasoft Live RAM Capturer](http://forensic.belkasoft.com/en/ram-capturer) - A tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system
-* [DumpIt](http://www.moonsols.com/2011/07/18/moonsols-dumpit-goes-mainstream/) - MoonSols DumpIt is a fusion of win32dd and win64dd in one executable, it can generate a copy of the physical memory in the current working directory.
 
 ### Process Dump Tools
 * [PMDump](http://ntsecurity.nu/toolbox/pmdump/) - PMDump is a tool that lets you dump the memory contents of a process to a file without stopping the process
