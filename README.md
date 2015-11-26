@@ -11,8 +11,11 @@ A curated list of tools and resources for security incident response, aimed to h
 - [All in one tools](#all-in-one-tools)
 - [Incident Management](#incident-management)
 - [Windows Evidence Collection](#windows-evidence-collection)
+- [OSX Evidence Collection](#osx-evidence-collection)
+- [Sandboxing/reversing tools](#sandboxingreversing-tools)
 - [Other tools](#other-tools)
 - [Videos](#videos)
+- [Books](#books)
 
 ## IR tools Collection
 
@@ -41,6 +44,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Timeline tools
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline
 * [Timesketch](https://github.com/google/timesketch) -open source tool for collaborative forensic timeline analysis
+* [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise. 
 
 ### All in one Tools
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - X-Ways is a forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis
@@ -65,7 +69,17 @@ A curated list of tools and resources for security incident response, aimed to h
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - FastIR Collector is a tool that collects different artefacts on live Windows systems and records the results in csv files. With the analyses of these artefacts, an early compromise can be detected.
 * [DumpIt](http://www.moonsols.com/resources/) - DumpIt is used to generate a physical memory dump of Windows machines. It works with both x86 (32-bits) and x64 (64-bits) machines.
 * [AChoir](https://github.com/OMENScan/AChoir) - Achoir is a framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
+* [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - Regripper is an open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
 
+### OSX Evidence Collection
+* [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
+
+### Sandboxing/reversing tools
+* [Cuckoo](https://github.com/cuckoobox) - Open Source Highly configurable sandboxing tool 
+* [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
+* [Viper](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA.
+* [Virustotal](https://virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
+* [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 
 
 ### Other Tools
@@ -76,3 +90,6 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
+
+### Books
+ * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR 
