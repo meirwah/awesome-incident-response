@@ -16,6 +16,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Other tools](#other-tools)
 - [Videos](#videos)
 - [Books](#books)
+- [Communities](#communities)
 
 ## IR tools Collection
 
@@ -96,4 +97,9 @@ A curated list of tools and resources for security incident response, aimed to h
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
 
 ### Books
- * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR 
+ * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR
+
+### Communities
+ * [Slack DFIR channel](https://rishi28.typeform.com/to/sTbTI8) - Slack DFIR Communitiy channel
+ * [Sans DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR
+
