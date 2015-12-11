@@ -81,6 +81,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### OSX Evidence Collection
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
+* [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
 
 ### Sandboxing/reversing tools
 * [Cuckoo](https://github.com/cuckoobox) - Open Source Highly configurable sandboxing tool 
