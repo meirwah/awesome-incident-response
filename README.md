@@ -92,9 +92,6 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Hybrid-Analysis is a free powerful online sandbox by Payload Security
 
-### Network Monitoring tools
-* [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion is a special Linux distro aimed for Network Security Monitoring.
-
 ### Other Tools
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell.
