@@ -108,6 +108,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [DNS Miner](http://dnsminer.net/) - DNS Miner is a semi-automatic incident response and threat intelligence tool for small, over worked security teams. Specific incident reponse features include a DNS sinkhole and historical analysis of DNS traffic against newly arriving data, e.g. suspicious domain lists.
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - The Live Response collection by BriMor Labs is an automated tool that collects volatile data from Windows, OSX, and *nix based operating systems.
+* [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
 
 ### Videos
 * [Demisto IR video resources](https://www.demisto.com/category/videos/) - Video Resources for Incident Response and Forensics Tools
