@@ -126,7 +126,7 @@ A curated list of tools and resources for security incident response, aimed to h
  * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR
 
 ### Intro to IR
- * [](http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/) - Introduction to dfir
+ * [Dfir intro](http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/) - By Scott J. Roberts
 
 ### Communities
  * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
