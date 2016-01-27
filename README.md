@@ -88,6 +88,10 @@ A curated list of tools and resources for security incident response, aimed to h
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 * [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
 
+
+### Linux Evidence Collection
+* [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artefacts on live Linux and records the results in csv files.
+
 ### Sandboxing/reversing tools
 * [Cuckoo](https://github.com/cuckoobox) - Open Source Highly configurable sandboxing tool
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community
