@@ -12,6 +12,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Incident Management](#incident-management)
 - [Windows Evidence Collection](#windows-evidence-collection)
 - [OSX Evidence Collection](#osx-evidence-collection)
+- [Linux Evidence Collection](#linux-evidence-collection)
 - [Sandboxing/reversing tools](#sandboxingreversing-tools)
 - [Linux Distributions](#linux-distributions)
 - [Other tools](#other-tools)
