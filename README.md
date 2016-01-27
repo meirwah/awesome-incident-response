@@ -13,6 +13,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Evidence Collection](#evidence-collection)
 - [Windows Evidence Collection](#windows-evidence-collection)
 - [OSX Evidence Collection](#osx-evidence-collection)
+- [Linux Evidence Collection](#linux-evidence-collection)
 - [Sandboxing/reversing tools](#sandboxingreversing-tools)
 - [Linux Distributions](#linux-distributions)
 - [Other tools](#other-tools)
@@ -49,7 +50,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Timeline tools
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline
-* [Timesketch](https://github.com/google/timesketch) -open source tool for collaborative forensic timeline analysis
+* [Timesketch](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise
 
 ### All in one Tools
@@ -92,6 +93,10 @@ A curated list of tools and resources for security incident response, aimed to h
 ### OSX Evidence Collection
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 * [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
+
+
+### Linux Evidence Collection
+* [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artefacts on live Linux and records the results in csv files.
 
 ### Sandboxing/reversing tools
 * [Cuckoo](https://github.com/cuckoobox) - Open Source Highly configurable sandboxing tool
