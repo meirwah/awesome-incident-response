@@ -19,6 +19,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Other tools](#other-tools)
 - [Videos](#videos)
 - [Books](#books)
+- [Playbooks](#playbooks)
 - [Communities](#communities)
 
 ## IR tools Collection
@@ -134,6 +135,9 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Intro to IR
  * [Dfir intro](http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/) - By Scott J. Roberts
+
+### Playbooks
+ * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) - Playbooks collection
 
 ### Communities
  * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
