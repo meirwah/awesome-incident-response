@@ -46,7 +46,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - A tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system
 
 ### Process Dump Tools
-* [PMDump](http://www.securityfocus.com/tools/2466) - PMDump is a tool that lets you dump the memory contents of a process to a file without stopping the process
+* [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - PMDump is a tool that lets you dump the memory contents of a process to a file without stopping the process
 * [Microsoft User Mode Process Dumper](http://www.microsoft.com/en-us/download/details.aspx?id=4060) - The User Mode Process Dumper (userdump) dumps any running Win32 processes memory image on the fly
 
 ### Timeline tools
