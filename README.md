@@ -8,6 +8,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Memory Imaging Tools](#memory-imaging-tools)
 - [Process Dump Tools](#process-dump-tools)
 - [Timeline tools](#timeline-tools)
+- [Log Analysis Tools](#log-analysis-tools)
 - [All in one tools](#all-in-one-tools)
 - [Incident Management](#incident-management)
 - [Evidence Collection](#evidence-collection)
@@ -53,6 +54,9 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline
 * [Timesketch](https://github.com/google/timesketch) - open source tool for collaborative forensic timeline analysis
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Free Tool available from Fire/Mandiant that will depict log/text file that can highlight areas on the graphic, that corresponded to a key word or phrase. Good for time lining an infection and what was done post compromise
+
+### Log Analysis Tools
+* [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics
 
 ### All in one Tools
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - X-Ways is a forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis
