@@ -146,7 +146,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Playbooks
  * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) - Playbooks collection
- * [IR Workflow Gallery](https://incidentresponse.com/#gallery) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow constists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
+ * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow constists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download.
 
 ### Communities
  * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
