@@ -100,6 +100,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - Triage-IR is a IR collector for Windows
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell
 * [Binaryforay](http://binaryforay.blogspot.co.il/p/software.html) - list of free tools for win forensics (http://binaryforay.blogspot.co.il/)
+* [Fibratus](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel
 
 ### OSX Evidence Collection
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
