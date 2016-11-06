@@ -158,6 +158,8 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats
 * [Viper](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA
 * [Virustotal](https://www.virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
+* [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Open source 
+  visualization library and command line tools for logs.  (Procmon, more to come...)
 
 ### Timeline tools
 
