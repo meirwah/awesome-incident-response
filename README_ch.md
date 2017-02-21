@@ -1,95 +1,95 @@
-﻿# awesome-incident-response
-A curated list of tools and resources for security incident response, aimed to help security analysts and [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-(DFIR).html) teams.
+﻿# 应急响应大合集
+用于安全事件响应的工具与资源的列表,旨在帮助安全分析师与 [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-(DFIR).html) 团队
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-- [All in one tools](#all-in-one-tools)
-- [Books](#books)
-- [Communities](#communities)
-- [Disk Image Creation Tools](#disk-image-creation-tools)
-- [Evidence Collection](#evidence-collection)
-- [Incident Management](#incident-management)
-- [Linux Distributions](#linux-distributions)
-- [Linux Evidence Collection](#linux-evidence-collection)
-- [Log Analysis Tools](#log-analysis-tools)
-- [Memory Analysis Tools](#memory-analysis-tools)
-- [Memory Imaging Tools](#memory-imaging-tools)
-- [OSX Evidence Collection](#osx-evidence-collection)
-- [Other tools](#other-tools)
+- [工具集](#工具集)
+- [书籍](#书籍)
+- [社区](#社区)
+- [磁盘镜像创建工具](#磁盘镜像创建工具)
+- [证据收集](#证据收集)
+- [应急管理](#应急管理)
+- [Linux 发行版](#Linux发行版)
+- [Linux 证据收集](#Linux证据收集)
+- [日志分析工具](#日志分析工具)
+- [内存分析工具](#内存分析工具)
+- [内存镜像工具](#内存镜像工具)
+- [OSX 证据收集](#osx证据收集)
+- [其他工具](#其他工具)
 - [Playbooks](#playbooks)
-- [Process Dump Tools](#process-dump-tools)
-- [Sandboxing/reversing tools](#sandboxingreversing-tools)
-- [Timeline tools](#timeline-tools)
-- [Videos](#videos)
-- [Windows Evidence Collection](#windows-evidence-collection)
+- [进程 Dump 工具](#进程Dump工具)
+- [沙盒 / 逆向工具](#沙盒/逆向工具)
+- [时间线工具](#时间线工具)
+- [视频](#视频)
+- [Windows 证据收集](#Windows证据收集)
 
-## IR tools Collection
+## IR 工具收集
 
-### All in one Tools
+### 工具集
 
 * [Belkasoft Evidence Center](https://belkasoft.com/ec) -  该工具包通过分析硬件驱动、驱动镜像、内存转储、iOS、黑莓与安卓系统备份、UFED、JTAG 与 chip-off 转储来快速从多个源提取数字证据
-* [CimSweep](https://github.com/PowerShellMafia/CimSweep) - CimSweep is a suite of CIM/WMI-based tools that enable the ability to perform incident response and hunting operations remotely across all versions of Windows
-* [CIRTkit](https://github.com/byt3smith/CIRTKit) - CIRTKit is not just a collection of tools, but also a framework to aid in the ongoing unification of Incident Response and Forensics investigation processes
-* [Cyber Triage](http://www.cybertriage.com) - Cyber Triage remotely collects and analyzes endpoint data to help determine if it is compromised.  It’s agentless approach and focus on ease of use and automation allows companies to respond without major infrastructure changes and without a team of forensics experts.  Its results are used to decide if the system should be erased or investigated further. 
-* [Digital Forensics Framework](http://www.arxsys.fr/discover/) - DFF is an Open Source computer forensics platform built on top of a dedicated Application Programming Interface (API). DFF proposes an alternative to the aging digital forensics solutions used today. Designed for simple use and automation, the DFF interface guides the user through the main steps of a digital investigation so it can be used by both professional and non-expert to quickly and easily conduct a digital investigations and perform incident response
-* [Doorman](https://github.com/mwielgoszewski/doorman) - Doorman is an osquery fleet manager that allows remote management of osquery configurations retrieved by nodes. It takes advantage of osquery's TLS configuration, logger, and distributed read/write endpoints, to give administrators visibility across a fleet of devices with minimal overhead and intrusiveness
-* [Envdb](https://github.com/mephux/envdb) - Envdb turns your production, dev, cloud, etc environments into a database cluster you can search using osquery as the foundation. It wraps the osquery process with a (cluster) node agent that can communicate back to a central location
+* [CimSweep](https://github.com/PowerShellMafia/CimSweep) - CimSweep 是一套基于 CIM/WMI 的工具,能够在所有版本的 Windows 上执行远程事件响应
+* [CIRTkit](https://github.com/byt3smith/CIRTKit) - CIRTKit 不仅是一个工具集合,更是一个框架,帮助在事件响应与取证调查过程中统一
+* [Cyber Triage](http://www.cybertriage.com) - Cyber Triage 远程收集\分析终端数据,以帮助确定计算机是否被入侵.其专注易用性与自动化,采用无代理方法使公司在没有重大基础设施\没有取证专家团队的情况下做出响应,其结果用于决定是否应该被擦除或者进行进一步调查
+* [Digital Forensics Framework](http://www.arxsys.fr/discover/) - DFF 是一个建立在专用 API 之上的开源计算机取证框架,DFF 提出了一种替代目前老旧的数字取证解决方案,其设计简单\更加自动化,通过 DFF 接口可以帮助用户进行数字调查取证的主要步骤,专业与非专业人员都可以快速的进行数字取证并执行事件响应
+* [Doorman](https://github.com/mwielgoszewski/doorman) - Doorman 是一个 osquery 的管理平台,可以远程管理节点的 osquery 配置.它利用 osquery 的 TLS 配置\记录器\分布式读写等优势为管理员提供最小开销的管理
+* [Envdb](https://github.com/mephux/envdb) - Envdb 将你的生产\开发\云等环境变成数据库集群,你可以使用 osquery 作为基础搜索,它可以和集群中心节点包装 osquery 的查询过程
 * [Falcon Orchestrator](https://github.com/CrowdStrike/falcon-orchestrator) - Falcon Orchestrator 是由 CrowdStrike 提供的一个基于 Windows 可扩展的应用程序,提供工作流自动化、案例管理与安全应急响应等功能
-* [FIDO](https://github.com/Netflix/Fido) - Fully Integrated Defense Operation (FIDO) by Netflix is an orchestration layer used to automate the incident response process by evaluating, assessing and responding to malware. FIDO’s primary purpose is to handle the heavy manual effort needed to evaluate threats coming from today's security stack and the large number of alerts generated by them
+* [FIDO](https://github.com/Netflix/Fido) - Netflix 开发的 Fully Integrated Defense Operation (FIDO) 用于自动化评估\响应恶意软件入侵响应过程,FIDO 的主要目的是协助处理大量的手动工作来评估对安全堆栈的威胁与生成的大量警报
 * [GRR Rapid Response](https://github.com/google/grr) - GRR Rapid Response 是一个用来远程现场取证的应急响应框架，其带有一个可以管理客户端的 Python 编写的服务器
-* [Kolide](https://github.com/mephux/kolide) - Kolide is an agentless osquery web interface and remote api server. Kolide was designed to be extremely portable (a single binary) and performant while keeping the codebase simple. It replaces Envdb
-* [Limacharlie](https://github.com/refractionpoint/limacharlie) - an endpoint security platform. It is itself a collection of small projects all working together, and gives you a cross-platform (Windows, OSX, Linux, Android and iOS) low-level environment allowing you to manage and push additional modules into memory to extend its functionality
-* [MIG](http://mig.mozilla.org/) - Mozilla Investigator (MIG) is a platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security
+* [Kolide](https://github.com/mephux/kolide) - Kolide 是一个无代理的 osquery Web 接口与远程 API 服务器,Kolide 作为 Envdb 替代品的设计理念就是极度便携(仅有一个可执行程序),在保持代码简单的情况下保持性能
+* [Limacharlie](https://github.com/refractionpoint/limacharlie) - 一个终端安全平台,它本身是一个小项目的集合,并提供了一个跨平台的低级环境,你可以管理并推送附加功能进入内存给程序扩展功能
+* [MIG](http://mig.mozilla.org/) - Mozilla Investigator (MIG) 是一个在远程终端执行调查的平台,它可以在大量系统中并行获取数据,从而加速事故调查与保证日常业务安全
 * [MozDef](https://github.com/mozilla/MozDef) - Mozilla Defense Platform (MozDef) 旨在帮助安全事件处理自动化,并促进事件的实时处理
-* [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - the nightHawk Response Platform is an application built for asynchronus forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
-* [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Open Computer Forensics Architecture (OCFA) is another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data
-* [Osquery](https://osquery.io/) - with osquery you can easily ask questions about your Linux and OSX infrastructure. Whether your goal is intrusion detection, infrastructure reliability, or compliance, osquery gives you the ability to empower and inform a broad set of organizations within your company. Queries in the *incident-response pack* help you detect and respond to breaches
+* [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - nightHawk Response Platform 是一个以 ElasticSearch 为后台的异步取证数据呈现的应用程序,设计与 Redline 配合调查
+* [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Open Computer Forensics Architecture (OCFA) 是另一个分布式开源计算机取证框架,这个框架建立在 Linux 平台上,并使用 postgreSQL 数据库来存储数据
+* [Osquery](https://osquery.io/) - osquery 可以找到 Linux 与 OSX 基础设施的问题,无论你是要入侵检测还是基础架构可靠性检查 osquery 都能够帮助你提高公司内部的安全组织能力, *incident-response pack* 可以帮助你进行检测\响应活动
 * [Redline](https://www.fireeye.com/services/freeware/redline.html) - 为用户提供主机调查工具，通过内存与文件分析来找到恶意行为的活动迹象，包括对威胁评估配置文件的开发
 * [The Sleuth Kit & Autopsy](http://www.sleuthkit.org) - Sleuth Kit 是基于 Unix 和 Windows 的工具，可以帮助计算机取证分析，其中包含各种协助取证的工具，比如分析磁盘镜像、文件系统深度分析等
 * [TheHive](https://thehive-project.org/) - TheHive 是一个可扩展的三个一开源解决方案，旨在让 SOC、CSIRT、CERT 或其他任何信息安全从业人员方便的进行安全事件调查
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - X-Ways 是一个用于磁盘克隆、镜像的工具，可以查找已经删除的文件并进行磁盘分析
 * [Zentral](https://github.com/zentralopensource/zentral) - 与 osquery 强大的端点清单保护能力相结合，通知与行动都灵活的框架，可以快速对 OS X 与 Linux 客户机上的更改做出识别与响应
 
-### Books
+### 书籍
 
 * [Dfir intro](http://sroberts.github.io/2016/01/11/introduction-to-dfir-the-beginning/) - 作者:Scott J. Roberts
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - 作者:Richard Bejtlich
 
-### Communities
+### 社区
 
 * [Sans DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
 
 ### 磁盘镜像创建工具
 
-* [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager) - AccessData FTK Imager is a forensics tool whose main purpose is to preview recoverable data from a disk of any kind. FTK Imager can also acquire live memory and paging file on 32bit and 64bit systems
-* [GetData Forensic Imager](http://www.forensicimager.com/) - GetData Forensic Imager is a Windows based program that will acquire, convert, or verify a forensic image in one of the following common forensic file formats
-* [Guymager](http://guymager.sourceforge.net) - Guymager is a free forensic imager for media acquisition on Linux
-* [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
+* [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager) - AccessData FTK Imager 是一个从任何类型的磁盘中预览可恢复数据的取证工具,FTK Imager 可以在 32\64 位系统上实时采集内存与页面文件
+* [GetData Forensic Imager](http://www.forensicimager.com/) - GetData Forensic Imager 是一个基于 Windows 程序,将常见的文件格式进行获取\转换\验证取证
+* [Guymager](http://guymager.sourceforge.net) - Guymager 是一个用于 Linux 上媒体采集的免费镜像取证器
+* [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - Magnet Forensics 开发的 ACQUIRE 可以在不同类型的磁盘上执行取证,包括 Windows\Linux\OS X 与移动操作系统
 
 ### 证据收集
 
 * [bulk_extractor](https://github.com/simsong/bulk_extractor) - bulk_extractor 是一个计算机取证工具，可以扫描磁盘映像、文件、文件目录，并在不解析文件系统或文件系统结构的情况下提取有用的信息，由于其忽略了文件系统结构，程序在速度和深入程度上都有了很大的提高
-* [Cold Disk Quick Response](https://github.com/rough007/CDQR) - uses a streamlined list of parsers to quickly analyze a forenisic image file (dd, E01, .vmdk, etc) and output nine reports
-* [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
-* [Live Response Collection](https://www.brimorlabs.com/tools/) - The Live Response collection by BriMor Labs is an automated tool that collects volatile data from Windows, OSX, and *nix based operating systems
+* [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 使用精简的解析器列表来快速分析取证镜像文件(dd, E01, .vmdk, etc)并输出报告
+* [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* 是一个 Windows 批处理脚本与一个 Unix Bash 脚本,用于在事件响应期在主机全面收集证据
+* [Live Response Collection](https://www.brimorlabs.com/tools/) - BriMor 开发的 Live Response collection 是一个用于从各种操作系统中收集易失性数据的自动化工具
 
 ### 应急管理
 
 * [FIR](https://github.com/certsocietegenerale/FIR/) - Fast Incident Response (FIR) 是一个网络安全应急管理平台，在设计时考虑了敏捷性与速度。其可以轻松创建、跟踪、报告网络安全应急事件并用于 CSIRT、CERT 与 SOC 等人员
 * [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) 对于安全团队来说是首要的开源应急处理系统,其与世界各地的十多个 CERT 与 CSIRT 合作,帮助处理不断增加的事件报告,RTIR 包含 Request Tracker 的全部功能
-* [SCOT](http://getscot.sandia.gov/) - Sandia Cyber Omni Tracker (SCOT) is an Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user
+* [SCOT](http://getscot.sandia.gov/) - Sandia Cyber Omni Tracker (SCOT) 是一个应急响应协作与知识获取工具,为事件响应的过程在不给用户带来负担的情况下增加价值
 * [threat_note](https://github.com/defpoint/threat_note) - 一个轻量级的调查笔记，允许安全研究人员注册、检索他们需要的 IOC 数据
 
 ### Linux 发行版
 
-* [ADIA](https://forensics.cert.org/#ADIA) - The Appliance for Digital Investigation and Analysis (ADIA) is a VMware-based appliance used for digital investigation and acquisition and is built entirely from public domain software. Among the tools contained in ADIA are Autopsy, the Sleuth Kit, the Digital Forensics Framework, log2timeline, Xplico, and Wireshark. Most of the system maintenance uses Webmin. It is designed for small-to-medium sized digital investigations and acquisitions. The appliance runs under Linux, Windows, and Mac OS. Both i386 (32-bit) and x86_64 (64-bit) versions are available.
+* [ADIA](https://forensics.cert.org/#ADIA) - Appliance for Digital Investigation and Analysis (ADIA) 是一个基于 VMware 的应用程序,用于进行数字取证.其完全由公开软件构建,包含的工具有 Autopsy\Sleuth Kit\Digital Forensics Framework\log2timeline\Xplico\Wireshark 大多数系统维护使用 Webmin.可在各种系统下进行使用
 * [CAINE](http://www.caine-live.net/index.html) - Computer Aided Investigative Environment (CAINE) 包含许多帮助调查人员进行分析的工具,包括取证工具
-* [DEFT](http://www.deftlinux.net/) - The Digital Evidence & Forensics Toolkit (DEFT) is a Linux distribution made for computer forensic evidence collection. It comes bundled with the Digital Advanced Response Toolkit (DART) for Windows. A light version of DEFT, called DEFT Zero, is also available, which is focused primarily on forensically sound evidence collection
-* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - Linux distribution that includes a vast collection of best-of-breed open source network security applications useful to the network security professional
-* [PALADIN](https://sumuri.com/software/paladin/) - PALADIN is a modified Linux distribution to perform various forenics task in a forensically sound manner. It comes with many open source forensics tools included
+* [DEFT](http://www.deftlinux.net/) - Digital Evidence & Forensics Toolkit (DEFT) 是一个用于计算机取证的 Linux 发行版,它与 Windows 上的 Digital Advanced Response Toolkit (DART) 捆绑在一起.DEFT 的轻量版被成为 DEFT Zero
+* [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - 包括大量的优秀开源网络安全应用程序的 Linux 发行版
+* [PALADIN](https://sumuri.com/software/paladin/) - PALADIN 是一个附带许多开源取证工具的改 Linux 发行版,用于在法庭上以正确的方式执行取证任务
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion 是一个特殊的 Linux 发行版,旨在利用高级的分析工具进行网络安全监控
-* [SIFT Workstation](http://digital-forensics.sans.org/community/downloads) - The SANS Investigative Forensic Toolkit (SIFT) Workstation demonstrates that advanced incident response capabilities and deep dive digital forensic techniques to intrusions can be accomplished using cutting-edge open-source tools that are freely available and frequently updated
+* [SIFT Workstation](http://digital-forensics.sans.org/community/downloads) - SANS Investigative Forensic Toolkit (SIFT) 使用优秀开源工具以实现高级事件响应与入侵深度数字取证,这些功能免费提供,并且经常更新
 
 ### Linux 证据收集
 
@@ -139,16 +139,16 @@ A curated list of tools and resources for security incident response, aimed to h
 * [RaQet](https://raqet.github.io/) - RaQet 是一个非常规的远程采集与分类工具,允许对那些为取证构建的操作系统进行远端计算机的遴选
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 收集关于 MySQL 的取证数据
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 从云服务中获取取证数据的命令行程序
-* [Stenographer](https://github.com/google/stenographer) - Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic
-* [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - traceroute-circl is an extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg
+* [Stenographer](https://github.com/google/stenographer) - Stenographer 是一个数据包捕获解决方案,旨在快速将全部数据包转储到磁盘中,然后提供对这些数据包的快速访问.它存储尽可能多的历史记录并且管理磁盘的使用情况,在磁盘受限被触发时执行既定策略,非常适合在事件发生前与发生中捕获流量,而不是显式存储所有流量
+* [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - 由 Computer Emergency Responce Center Luxembourg 开发的 traceroute-circl 是一个增强型的 traceroute 来帮助 CSIRT\CERT 的工作人员,通常 CSIRT 团队必须根据收到的 IP 地址处理事件
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - 一个用来向反病毒厂商提供样本的 Windows 实用工具(几乎不再维护)
 
 
 ### Playbooks
 
 * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) - Playbook 收集
-* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow constists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download
-* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
+* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - 不同的通用事件响应工作流程,例如恶意软件爆发\数据窃取\未经授权的访问等,每个工作流程都有七个步骤:准备\检测\分析\遏制\根除\恢复\事后处理
+* [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - 描述 PagerDuty 应急响应过程的文档,不仅提供了关于事件准备的信息,还提供了在此前与之后要做什么工作,源在 [GitHub](https://github.com/PagerDuty/incident-response-docs) 上
 
 ### 进程 Dump 工具
 
