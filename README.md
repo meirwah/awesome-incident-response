@@ -57,6 +57,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Communities
 
+* [augmentd](https://augmentd.co/) - Community driven site provididing a list of searches that can be implemented in and executed with a variety of common security tools.
 * [Sans DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
 
