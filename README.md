@@ -141,6 +141,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host
+* [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X
 * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
