@@ -130,6 +130,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### OSX Evidence Collection
 
 * [Knockknock](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX
+* [mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 * [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
 
