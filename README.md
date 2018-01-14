@@ -136,7 +136,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Other Tools
 
-* [Various APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
+* [APIs (various)](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - a web-based tool which combines an analytic engine with a cyber threat database 
 * [domfind](https://github.com/diogo-fernan/domfind) - *domfind* is a Python DNS crawler for finding identical domain names under different TLDs.
