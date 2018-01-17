@@ -142,6 +142,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - The DumpsterFire Toolset is a modular, menu-driven, cross-platform tool for building repeatable, time-delayed, distributed security events. Easily create custom event chains for Blue Team drills and sensor /   alert mapping. Red Teams can create decoy incidents, distractions, and lures to support and scale their operations.
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir is a simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash
+* [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
