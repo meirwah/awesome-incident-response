@@ -105,9 +105,9 @@ A curated list of tools and resources for security incident response, aimed to h
 
 * [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics
 
-### Lists / Awesome Lists
+### Other Lists / Other Awesome Lists
 
-* [APIs (various)](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
+* [List of various Security APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
 
 
 ### Memory Analysis Tools
