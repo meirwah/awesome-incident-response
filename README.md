@@ -17,6 +17,7 @@ A curated list of tools and resources for security incident response, aimed to h
 - [Memory Analysis Tools](#memory-analysis-tools)
 - [Memory Imaging Tools](#memory-imaging-tools)
 - [OSX Evidence Collection](#osx-evidence-collection)
+- [Other lists](#other-lists)
 - [Other tools](#other-tools)
 - [Playbooks](#playbooks)
 - [Process Dump Tools](#process-dump-tools)
@@ -105,11 +106,6 @@ A curated list of tools and resources for security incident response, aimed to h
 
 * [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics
 
-### Other Lists / Other Awesome Lists
-
-* [List of various Security APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
-
-
 ### Memory Analysis Tools
 
 * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework
@@ -138,6 +134,10 @@ A curated list of tools and resources for security incident response, aimed to h
 * [mac_apt - macOS Artifact Parsing Tool](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 * [OSX Collector](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
+
+### Other Lists
+
+* [List of various Security APIs](https://github.com/deralexxx/security-apis) - A collective list of public JSON APIs for use in security.
 
 ### Other Tools
 
