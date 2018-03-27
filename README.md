@@ -105,6 +105,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Log Analysis Tools
 
 * [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics
+* [Logdissect](https://github.com/dogoncouch/logdissect) - A CLI utility and Python API for analyzing log files and other data.
 
 ### Memory Analysis Tools
 
