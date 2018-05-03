@@ -154,7 +154,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa is a modular incident response framework in Powershell
-* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - PyaraScanner is a very simple many-rules to many-files YARA scanning script for malware zoos and IR, written in Python
+* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - PyaraScanner is a very simple many-rules to many-files YARA scanning Python script for malware zoos and IR
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X
 * [RaQet](https://raqet.github.io/) - RaQet is an unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur
