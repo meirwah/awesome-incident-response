@@ -91,6 +91,8 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - uses a streamlined list of parsers to quickly analyze a forenisic image file (dd, E01, .vmdk, etc) and output nine reports
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* is a Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - The Live Response collection by BriMor Labs is an automated tool that collects volatile data from Windows, OSX, and *nix based operating systems
+* [Archaeologist](https://github.com/5A4B48/IR-Collection) - Live cross platform incident response collection utility written in python. It is still under development at NCAR and can be compiled to binaries using pyinstaller. Instructions coming soon.  
+
 
 ### Incident Management
 
