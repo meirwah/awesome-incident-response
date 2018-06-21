@@ -70,6 +70,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 * [Dfir intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - By Scott J. Roberts
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR
+* [How to Investigate Like a Rockstar](https://www.amazon.com/dp/B074THN82S) - By Sparc Flow
 
 ### Communities
 
