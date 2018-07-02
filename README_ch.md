@@ -5,6 +5,7 @@
 
 ## 目录
 
+- [对抗模拟](#对抗模拟)
 - [工具集](#工具集)
 - [书籍](#书籍)
 - [社区](#社区)
@@ -27,6 +28,19 @@
 - [Windows 证据收集](#Windows证据收集)
 
 ## IR 工具收集
+
+### 对抗模拟
+
+* [APTSimulator](https://github.com/NextronSystems/APTSimulator) - 使用一组工具与输出文件处理操作系统的 Windows 批处理脚本，使得系统看上去像被攻陷了。
+* [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 与 Mitre ATT＆CK 框架匹配的便携测试工具。
+* [AutoTTP](https://github.com/jymcheong/AutoTTP) - 自动策略技术与程序。手动重复运行复杂序列进行回归测试，产品评估，为研究人员生成数据。
+* [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，将网络分析培训课程，事件响应演练和 Red Team 合作提升到一个新的水平。
+* [Caldera](https://github.com/mitre/caldera) - 在 Windows Enterprise 网络中攻陷系统后执行敌对行为的自动对手仿真系统。运行时的行为由计划系统和基于 ATT＆CK™ 项目预先配置的对手模型生成。
+* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - DumpsterFire 工具集是一个模块化、菜单驱动的跨平台工具，用于构建可重复的分布式安全事件。创建 Blue Team 演戏与传感器报警映射关系的自定义事件链。Red Team 可以制造诱饵事件，分散防守方的注意力以支持和扩大战果。
+* [Metta](https://github.com/uber-common/metta) - 用于进行敌对模拟的信息安全防御工具。
+* [Network Flight Simulator](https://github.com/alphasoc/flightsim) - 用于生成恶意网络流量并帮助安全团队评估安全控制和网络可见性的轻量级程序。
+* [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA 提供了一个旨在让 Blue Team 在经历过 MITRE ATT&CK 模型为指导的攻击行为后的检测能力的脚本框架。
+* [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - 用于模拟对手与威胁狩猎的虚拟机。
 
 ### 工具集
 
@@ -59,7 +73,7 @@
 
 ### 社区
 
-* [augmentd](https://augmentd.co/) - 这是一家社区驱动的网站，上面提供了一个可通过不同的常用安全工具部署执行的搜索清单
+* [augmentd](http://augmentd.co/) - 这是一家社区驱动的网站，上面提供了一个可通过不同的常用安全工具部署执行的搜索清单
 * [Sans DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8)
 
@@ -80,6 +94,7 @@
 
 ### 事件管理
 
+* [CyberCPR](https://www.cybercpr.com) - 处理敏感事件时为支持 GDPR 而构建的社区和商业事件管理工具
 * [Cyphon](https://www.cyphon.io/) - Cyphon 通过一个单一的平台来组织一系列相关联的工作消除了事件管理的开销。它对事件进行收集、处理、分类。
 * [Demisto](https://www.demisto.com/product/) - Demisto 免费的社区版提供全事件生命周期的管理，事件披露报告，团队任务分配与协作，以及众多增强自动化的系统集成（如 Active Directory, PagerDuty, Jira 等）。
 * [FIR](https://github.com/certsocietegenerale/FIR/) - Fast Incident Response (FIR) 是一个网络安全事件管理平台，在设计时考虑了敏捷性与速度。其可以轻松创建、跟踪、报告网络安全应急事件并用于 CSIRT、CERT 与 SOC 等人员。
@@ -105,6 +120,7 @@
 ### 日志分析工具
 
 * [Lorg](https://github.com/jensvoid/lorg) - 一个用 HTTPD 日志进行高级安全分析与取证的工具
+* [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的 CLI 实用程序和 Python API
 
 ### 内存分析工具
 
@@ -144,7 +160,6 @@
 * [Cortex](https://thehive-project.org) - Cortex 可以通过 Web 界面逐个或批量对 IP 地址\邮件地址\URL\域名\文件哈希的分析,还可以使用 REST API 来自动执行这些操作
 * [Crits](https://crits.github.io/) - 一个将分析引擎与网络威胁数据库相结合且带有 Web 界面的工具
 * [domfind](https://github.com/diogo-fernan/domfind) - *domfind* 一个用 Python 编写的 DNS 爬虫，它可以找到在不同顶级域名下面的相同域名.
-* [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - DumsterFire 工具集是一个模块化的、基于菜单的、跨平台的工具，它可以创建可重复的、可延时的、分布式的安全事件，可以很轻松地给攻防演练中的蓝方创建定制的事件链和传感器/告警的对应关系。红方可以创建诱骗的事件、分散注意力的事以及鱼饵来支撑、扩展他们的行动。
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir 是一个简单的 IOC 扫描器,可以在纯 bash 中扫描任意 Linux/Unix/OSX  系统,由 THOR 与 LOKI 的开发者创作
 * [Fileintel](https://github.com/keithjjones/fileintel) - 为每个文件哈希值提供情报
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - 威胁捕捉
@@ -209,6 +224,7 @@
 * [FastIR Collector](https://github.com/SekoiaLab/Fastir_Collector) - FastIR Collector 在 Windows 系统中实时收集各种信息并将结果记录在 CSV 文件中，通过对这些信息的分析，我们可以发现早期的入侵痕迹
 * [FECT](https://github.com/jipegit/FECT) - Fast Evidence Collector Toolkit (FECT) 是一个轻量级的应急响应工具集，用于在可疑的 Windows 计算机上取证，它可以让非技术调查人员更专业的进行应急处理。
 * [Fibratus](https://github.com/rabbitstack/fibratus) - 探索与跟踪 Windows 内核的工具。
+* [IREC](https://binalyze.com/products/irec-free/) - 免费、高效、易用的集成 IR 证据收集工具，可收集内存映像、$MFT、事件日志、WMI 脚本、注册表，系统还原点等
 * [IOC Finder](https://www.fireeye.com/services/freeware/ioc-finder.html) - IOC Finder 是由 Mandiant 开发的免费工具，用来收集主机数据并报告存在危险的 IOC，仅支持 Windows。
 * [Fidelis ThreatScanner](https://www.fidelissecurity.com/resources/fidelis-threatscanner) - Fidelis ThreatScanner 是一个由 Fidelis Cybersecurity 开发的免费工具，使用 OpenIOC 和 YARA 来报告终端设备的安全状态，ThreatScanner 衡量系统的运行状态后会出具匹配情况的报告，仅限 Windows。
 * [LOKI](https://github.com/Neo23x0/Loki) - Loki 是一个使用 YARA 与其他 IOC 对终端进行扫描的免费 IR 扫描器
