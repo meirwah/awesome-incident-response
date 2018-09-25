@@ -91,6 +91,7 @@
 * [Cold Disk Quick Response](https://github.com/rough007/CDQR) - 使用精简的解析器列表来快速分析取证镜像文件(dd, E01, .vmdk, etc)并输出报告。
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* 是一个 Windows 批处理脚本与一个 Unix Bash 脚本,用于在事件响应期在主机全面收集证据。
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - BriMor 开发的 Live Response collection 是一个用于从 Windows、OSX、*nix 等操作系统中收集易失性数据的自动化工具。
+* [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 用于并行远程内存获取的命令行程序
 
 ### 事件管理
 
@@ -159,6 +160,7 @@
 
 * [Cortex](https://thehive-project.org) - Cortex 可以通过 Web 界面逐个或批量对 IP 地址\邮件地址\URL\域名\文件哈希的分析,还可以使用 REST API 来自动执行这些操作
 * [Crits](https://crits.github.io/) - 一个将分析引擎与网络威胁数据库相结合且带有 Web 界面的工具
+* [Diffy](https://github.com/Netflix-Skunkworks/diffy) - Netflix de  SIRT 开发的 DFIR 工具，允许调查人员快速地跨越云主机（AWS 的 Linux 实例）并通过审查基线的的差异来有效地审查这些实例以便进行后续操作
 * [domfind](https://github.com/diogo-fernan/domfind) - *domfind* 一个用 Python 编写的 DNS 爬虫，它可以找到在不同顶级域名下面的相同域名.
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Fenrir 是一个简单的 IOC 扫描器,可以在纯 bash 中扫描任意 Linux/Unix/OSX  系统,由 THOR 与 LOKI 的开发者创作
 * [Fileintel](https://github.com/keithjjones/fileintel) - 为每个文件哈希值提供情报
@@ -167,9 +169,11 @@
 * [Hostintel](https://github.com/keithjjones/hostintel) - 为每个主机提供情报
 * [imagemounter](https://github.com/ralphje/imagemounter) - 命令行工具及 Python 包，可以简单地 mount/unmount 数字取证的硬盘镜像
 * [Kansa](https://github.com/davehull/Kansa/) - Kansa 是一个 PowerShell 的模块化应急响应框架
+* [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - PyaraScanner 是一个非常简单的多线程、多规则、多文件的 YARA 扫描脚本
 * [rastrea2r](https://github.com/aboutsecurity/rastrea2r) - 使用 YARA 在 Windows、Linux 与 OS X 上扫描硬盘或内存
 * [RaQet](https://raqet.github.io/) - RaQet 是一个非常规的远程采集与分类工具，允许对那些为取证构建的操作系统进行远端计算机的遴选
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 收集关于 MySQL 的取证数据
+* [Scout2](https://nccgroup.github.io/Scout2/) - 帮助 Amazon Web 服务管理员评估其安全态势的工具
 * [SearchGiant](https://github.com/jadacyrus/searchgiant_cli) - 从云服务中获取取证数据的命令行程序
 * [Stenographer](https://github.com/google/stenographer) - Stenographer 是一个数据包捕获解决方案，旨在快速将全部数据包转储到磁盘中，然后提供对这些数据包的快速访问。它存储尽可能多的历史记录并且管理磁盘的使用情况，在大小达到设定的上限时删除记录，非常适合在事件发生前与发生中捕获流量，而不是显式存储所有流量。
 * [sqhunter](https://github.com/0x4d31/sqhunter) - 一个基于 osquery 和 Salt Open (SaltStack) 的威胁捕捉工具，它无需 osquery 的 tls 插件就能发出临时的或者分布式的查询。 sqhunter 也可以查询开放的 sockets，并将它们与威胁情报进行比对。
