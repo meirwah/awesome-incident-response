@@ -122,6 +122,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 * [Lorg](https://github.com/jensvoid/lorg) - a tool for advanced HTTPD logfile security analysis and forensics
 * [Logdissect](https://github.com/dogoncouch/logdissect) - A CLI utility and Python API for analyzing log files and other data.
+* [StreamAlert](https://github.com/airbnb/streamalert) - A serverless, real-time data analysis framework which powers the ingestion, analysis, and alerting on data from any environment, using data sources and alerting logic you define. Computer security teams use StreamAlert to scan terabytes of log data every day for incident detection and response.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 
 ### Memory Analysis Tools
