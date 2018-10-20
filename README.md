@@ -51,6 +51,8 @@ A curated list of tools and resources for security incident response, aimed to h
 * [TheHive](https://thehive-project.org/) - TheHive is a scalable 3-in-1 open source and free solution designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - X-Ways is a forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis
 * [Zentral](https://github.com/zentralopensource/zentral) - combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+* [The MISP](https://www.misp-project.org/) - The MISP threat sharing platform is a free and open source software helping information sharing of threat intelligence including cyber security indicators.
+* [FIR - Fast Incident Response](https://github.com/certsocietegenerale/FIRl) - FIR (Fast Incident Response) is an cybersecurity incident management platform designed with agility and speed in mind. It allows for easy creation, tracking, and reporting of cybersecurity incidents.
 
 ### Books
 
