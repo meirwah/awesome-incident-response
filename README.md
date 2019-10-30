@@ -161,6 +161,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Other Lists
 
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+* [Eric Zimmerman Tools](https://ericzimmerman.github.io/#!index.md) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 
 ### Other Tools
 
