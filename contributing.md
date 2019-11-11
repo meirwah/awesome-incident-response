@@ -8,5 +8,6 @@ Please ensure your pull request adheres to the following guidelines:
 - Use the following format: ` [RESOURCE](LINK) - DESCRIPTION `
 - The pull request and commit should have a useful title.
 - Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
+- List is organised by alphabetical order, please place in appropriate position. 
 
 Thank you for your suggestions!
