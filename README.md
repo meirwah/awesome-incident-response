@@ -76,7 +76,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [augmentd](http://augmentd.co/) - Community driven site provididing a list of searches that can be implemented in and executed with a variety of common security tools.
 * [Sans DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR.
-* [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://rishi28.typeform.com/to/sTbTI8).
+* [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
 
 ### Disk Image Creation Tools
 
