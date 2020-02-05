@@ -104,6 +104,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
 * [Sandia Cyber Omni Tracker (SCOT)](http://getscot.sandia.gov/) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 * [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+* [True Positive](https://www.truepositive.app/) - True Positive is a web-based SaaS tool that helps you track and collaborate on your org's security investigations. It's well-documented, you can do everything you can do in the UI via the API, you can standardize your IR processes with case templates, you can restrict access to cases and painlessly create cases from emails. Best of all - it's free, with full functionality, up to 5 users.
 
 ### Linux Distributions
 
