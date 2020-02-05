@@ -93,6 +93,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and *nix based operating systems.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
+* [uac](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a command line shell script that makes use of built-in tools to automate the collection of system artifacts. Supported systems: AIX, BSD (FreeBSD, NetBSD, OpenBSD...), Linux, macOS and Solaris.
 
 ### Incident Management
 
