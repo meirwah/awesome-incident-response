@@ -6,27 +6,30 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ## Contents
 
-- [Adversary Emulation](#adversary-emulation)
-- [All in one tools](#all-in-one-tools)
-- [Books](#books)
-- [Communities](#communities)
-- [Disk Image Creation Tools](#disk-image-creation-tools)
-- [Evidence Collection](#evidence-collection)
-- [Incident Management](#incident-management)
-- [Linux Distributions](#linux-distributions)
-- [Linux Evidence Collection](#linux-evidence-collection)
-- [Log Analysis Tools](#log-analysis-tools)
-- [Memory Analysis Tools](#memory-analysis-tools)
-- [Memory Imaging Tools](#memory-imaging-tools)
-- [OSX Evidence Collection](#osx-evidence-collection)
-- [Other lists](#other-lists)
-- [Other tools](#other-tools)
-- [Playbooks](#playbooks)
-- [Process Dump Tools](#process-dump-tools)
-- [Sandboxing/reversing tools](#sandboxingreversing-tools)
-- [Timeline tools](#timeline-tools)
-- [Videos](#videos)
-- [Windows Evidence Collection](#windows-evidence-collection)
+- [Awesome Incident Response ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-incident-response-img-src%22httpsgithubcomsindresorhusawesome%22-alt%22awesome%22)
+  - [Contents](#contents)
+  - [IR tools Collection](#ir-tools-collection)
+    - [Adversary Emulation](#adversary-emulation)
+    - [All in one Tools](#all-in-one-tools)
+    - [Books](#books)
+    - [Communities](#communities)
+    - [Disk Image Creation Tools](#disk-image-creation-tools)
+    - [Evidence Collection](#evidence-collection)
+    - [Incident Management](#incident-management)
+    - [Linux Distributions](#linux-distributions)
+    - [Linux Evidence Collection](#linux-evidence-collection)
+    - [Log Analysis Tools](#log-analysis-tools)
+    - [Memory Analysis Tools](#memory-analysis-tools)
+    - [Memory Imaging Tools](#memory-imaging-tools)
+    - [OSX Evidence Collection](#osx-evidence-collection)
+    - [Other Lists](#other-lists)
+    - [Other Tools](#other-tools)
+    - [Playbooks](#playbooks)
+    - [Process Dump Tools](#process-dump-tools)
+    - [Sandboxing/reversing tools](#sandboxingreversing-tools)
+    - [Timeline tools](#timeline-tools)
+    - [Videos](#videos)
+    - [Windows Evidence Collection](#windows-evidence-collection)
 
 ## IR tools Collection
 
@@ -56,7 +59,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [GRR Rapid Response](https://github.com/google/grr) - Incident response framework focused on remote live forensics. It consists of a python agent (client) that is installed on target systems, and a python server infrastructure that can manage and talk to the agent.
 * [Kolide Fleet](https://kolide.com/fleet) - State of the art host monitoring platform tailored for security experts. Leveraging Facebook's battle-tested osquery project, Kolide delivers fast answers to big questions.
 * [Limacharlie](https://github.com/refractionpoint/limacharlie) - Endpoint security platform composed of a collection of small projects all working together that gives you a cross-platform (Windows, OSX, Linux, Android and iOS) low-level environment for managing and pushing additional modules into memory to extend its functionality.
-* [Mozilla Investigator (MIG)](http://mig.mozilla.org/) - Platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
+* [Mozilla Investigator (MIG)](http://mozilla.github.io/mig/) - [DEPRECATED] Platform to perform investigative surgery on remote endpoints. It enables investigators to obtain information from large numbers of systems in parallel, thus accelerating investigation of incidents and day-to-day operations security.
 * [MozDef](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 * [nightHawk](https://github.com/biggiesmallsAG/nightHawkResponse) - Application built for asynchronus forensic data presentation using ElasticSearch as the backend. It's designed to ingest Redline collections.
 * [Open Computer Forensics Architecture](http://sourceforge.net/projects/ocfa/) - Another popular distributed open-source computer forensics framework. This framework was built on Linux platform and uses postgreSQL database for storing data.
