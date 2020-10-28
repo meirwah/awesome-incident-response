@@ -180,7 +180,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for Virustotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multithreaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
-* [rastrea2r](https://github.com/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
+* [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 * [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
 * [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
@@ -206,7 +206,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) - Android Malware Analysis as a Service, executed in a native Android environment.
 * [Any Run](https://app.any.run/) - Interactive online malware analysis service for dynamic and static research of most types of threats using any environment.
 * [CAPEv2](https://github.com/kevoreilly/CAPEv2) - Malware Configuration And Payload Extraction.
-* [Cuckoo](https://github.com/cuckoosandbox) - Open Source Highly configurable sandboxing tool.
+* [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - Open Source Highly configurable sandboxing tool.
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - Heavily modified Cuckoo fork developed by community.
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) - Python library to control a cuckoo-modified sandbox.
 * [Cutter](https://github.com/radareorg/cutter) - Reverse engineering platform powered by Radare2.
