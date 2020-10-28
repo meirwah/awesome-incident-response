@@ -198,7 +198,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Process Dump Tools
 
-* [Microsoft User Mode Process Dumper](http://www.microsoft.com/en-us/download/details.aspx?id=4060) - Dumps any running Win32 processes memory image on the fly.
+* [Microsoft ProcDump](https://docs.microsoft.com/en-us/sysinternals/downloads/procdump) - Dumps any running Win32 processes memory image on the fly.
 * [PMDump](http://www.ntsecurity.nu/toolbox/pmdump/) - Tool that lets you dump the memory contents of a process to a file without stopping the process.
 
 ### Sandboxing/reversing tools
