@@ -155,7 +155,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### OSX Evidence Collection
 
-* [Knockknock](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX.
+* [Knockknock](https://objective-see.com/products/knockknock.html) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX.
 * [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
 * [OSX Collector](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
