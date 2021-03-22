@@ -133,6 +133,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Memory Analysis Tools
 
+* [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
 * [LiME](https://github.com/504ensicsLabs/LiME) - Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD.
