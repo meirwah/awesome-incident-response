@@ -196,9 +196,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Responce Center Luxembourg.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
-
 ### Playbooks
 
+* [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
 * [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
@@ -240,7 +240,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Morgue](https://github.com/etsy/morgue) - PHP Web app by Etsy for managing postmortems.
 * [Plaso](https://github.com/log2timeline/plaso) -  a Python-based backend engine for the tool log2timeline.
 * [Timesketch](https://github.com/google/timesketch) - Open source tool for collaborative forensic timeline analysis.
-
 
 ### Videos
 
