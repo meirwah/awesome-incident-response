@@ -67,8 +67,12 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 
 ### 书籍
 
+* [Applied Incident Response](https://www.amazon.com/Applied-Incident-Response-Steve-Anson/dp/1119560268/) - Steve Anson 编写的应急响应应用指南
 * [Dfir intro](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/)) - 作者:Scott J. Roberts
-* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - 作者:Richard Bejtlich
+* [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - 事件响应权威指南
+* [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - 作者：Scott J. Roberts、Rebekah Brown
+* [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - 事件响应者的重要参考
+* [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - 作者：Richard Bejtlich
 
 ### 社区
 
@@ -93,7 +97,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - *ir-rescue* 是一个 Windows 批处理脚本与一个 Unix Bash 脚本,用于在事件响应期在主机全面收集证据。
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - BriMor 开发的 Live Response collection 是一个用于从 Windows、OSX、*nix 等操作系统中收集易失性数据的自动化工具。
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - 用于并行远程内存获取的命令行程序
-* [UAC](https://github.com/tclahr/uac) - 自动收集系统信息的 Shell 脚本，支持的系统包括：AIX、FreeBSD、Linux、macOS、NetBSD、Netscaler、OpenBSD 和 Solaris
+* [UAC](https://github.com/tclahr/uac) - UAC（Unix-like Artifacts Collector）是实时响应收集信息工具，支持的系统包括：AIX、FreeBSD、Linux、macOS、NetBSD、Netscaler、OpenBSD 和 Solaris
 
 ### 事件管理
 
@@ -101,7 +105,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Cyphon](https://www.cyphon.io/) - Cyphon 通过一个单一的平台来组织一系列相关联的工作消除了事件管理的开销。它对事件进行收集、处理、分类。
 * [Demisto](https://www.demisto.com/product/) - Demisto 免费的社区版提供全事件生命周期的管理，事件披露报告，团队任务分配与协作，以及众多增强自动化的系统集成（如 Active Directory, PagerDuty, Jira 等）。
 * [CORTEX XSOAR](https://www.paloaltonetworks.com/cortex/xsoar) - Paloalto SOAR 平台，带有事件生命周期管理和许多提高自动化水平的集成工具
-* [DFIRTrack](https://github.com/stuhli/dfirtrack) - 应急响应跟踪程序用于处理涉及许多受影响系统的重大事件，在 APT 的案例中经常会看到
+* [DFIRTrack](https://github.com/dfirtrack/dfirtrack) - 应急响应跟踪程序用于处理影响系统的事件
 * [FIR](https://github.com/certsocietegenerale/FIR/) - Fast Incident Response (FIR) 是一个网络安全事件管理平台，在设计时考虑了敏捷性与速度。其可以轻松创建、跟踪、报告网络安全应急事件并用于 CSIRT、CERT 与 SOC 等人员。
 * [KAPE](https://www.kroll.com/en/services/cyber-risk/investigate-and-respond/kroll-artifact-parser-extractor-kape) - 审核工具，用于查找最普遍的数字证据然后进行快速地解析，效率很高。
 * [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) 对于安全团队来说是首要的开源事件处理系统,其与世界各地的十多个 CERT 与 CSIRT 合作，帮助处理不断增加的事件报告，RTIR 包含 Request Tracker 的全部功能。
@@ -126,12 +130,15 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 ### 日志分析工具
 
 * [AppCompatProcessor](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor 旨在从企业范围内的 AppCompat/AmCache 数据中提取信息
+* [APT Hunter](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter 是用于 Windows 事件日志的威胁狩猎工具。
+* [Event Log Explorer](https://eventlogxp.com/) - 用于快速分析日志文件和其他数据的工具。
 * [Kaspersky CyberTrace](https://support.kaspersky.com/13850) - 将威胁数据与 SIEM 集成的分析工具，用户可以在现有安全运营和工作流中利用威胁情报进行安全监控与事件响应。
 * [Lorg](https://github.com/jensvoid/lorg) - 一个用 HTTPD 日志进行高级安全分析与取证的工具
 * [Logdissect](https://github.com/dogoncouch/logdissect) - 用于分析日志文件和其他数据的 CLI 实用程序和 Python API
 * [Sigma](https://github.com/Neo23x0/sigma) - 用于 SIEM 系统的通用签名格式，已包含了许多规则
 * [StreamAlert](https://github.com/airbnb/streamalert) - 实时日志分析框架，能够配置自定义数据源并使用用户自定义的逻辑触发警报
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch 通过聚合事件日志使分析 Windows 事件日志的效率更高。
+* [Zircolite](https://github.com/wagga40/Zircolite) - 独立、快速基于 SIGMA 的 EVTX 或 JSON 检测工具。
 
 ### 内存分析工具
 
@@ -141,7 +148,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [MalConfScan](https://github.com/JPCERTCC/MalConfScan) - MalConfScan 是使用 Volatility 提取已知恶意软件配置信息的插件，Volatility 是用于事件响应与恶意软件分析的开源内存取证框架。该插件在内存中搜索恶意软件并提取配置信息，此外该工具具有列出恶意代码使用的字符串的功能。
 * [Memoryze](https://www.fireeye.com/services/freeware/memoryze.html) - 由 Mandiant 开发的 Memoryze 是一个免费的内存取证软件，可以帮助应急响应人员在内存中定位恶意部位, Memoryze 也可以分析内存镜像或者在正在运行的系统上把页面文件加入它的分析。
 * [Memoryze for Mac](https://www.fireeye.com/services/freeware/memoryze.html) - Memoryze for Mac 是 Memoryze 但仅限于 Mac,且功能较少。
-* [Rekall](http://www.rekall-forensic.com/) - 用于从 RAM 中提取样本的开源工具
+* [Rekall](http://www.rekall-forensic.com/) - 用于从 RAM 中提取样本的开源工具。
 * [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO 是一个工业级的物理内存及自动化恶意软件分析解决方案
 * [Volatility](https://github.com/volatilityfoundation/volatility) - 高级内存取证框架
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - VolatilityBot 是一个自动化工具，帮助研究员减少在二进制程序提取解析阶段的手动任务，或者帮助研究人员进行内存分析调查的第一步
@@ -195,9 +202,13 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 
 ### Playbooks
 
+* [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples 旨在针对三个案例（DoS 或 DDoS 攻击、凭据泄漏、意外访问 Amazon S3 存储桶）进行定制。
+* [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks 集合
+* [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 网络事件响应手册集合
 * [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 开发的事件响应方法论
 * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - 不同的通用事件响应工作流程,例如恶意软件爆发、数据窃取、未经授权的访问等，每个工作流程都有七个步骤:准备、检测、分析、遏制、根除、恢复、事后处理。
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - 描述 PagerDuty 应急响应过程的文档，不仅提供了关于事件准备的信息，还提供了在此前与之后要做什么工作，源在 [GitHub](https://github.com/PagerDuty/incident-response-docs) 上。
+* [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Splunk 的 Phantom 社区手册
 
 ### 进程 Dump 工具
 
@@ -225,10 +236,11 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Viper](https://github.com/viper-framework/viper) - Viper 是一个基于 Python 的二进制程序分析及管理框架，支持 Cuckoo 与 YARA
 * [Virustotal](https://www.virustotal.com) - Virustotal, Google 的子公司，一个免费在线分析文件/URL的厂商，可以分析病毒\蠕虫\木马以及其他类型被反病毒引擎或网站扫描器识别的恶意内容
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Cuckoo、Procmon等日志的开源可视化库
-
+* [Yomi](https://yomi.yoroi.company) - Yoroi 托管的免费多沙盒服务。
 
 ### 时间线工具
 
+* [Aurora Incident Response](https://github.com/cyb3rfox/Aurora-Incident-Response) - 构建事件的详细时间表的平台
 * [Highlighter](https://www.fireeye.com/services/freeware/highlighter.html) - Fire/Mandiant 开发的免费工具，来分析日志/文本文件，可以对某些关键字或短语进行高亮显示，有助于时间线的整理
 * [Morgue](https://github.com/etsy/morgue) - 一个 Etsy 开发的 PHP Web 应用，可用于管理事后处理
 * [Plaso](https://github.com/log2timeline/plaso) -  一个基于 Python 用于 log2timeline 的后端引擎
