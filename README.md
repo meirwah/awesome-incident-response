@@ -143,7 +143,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [AppCompatProcessor](https://github.com/mbevilacqua/appcompatprocessor) - AppCompatProcessor has been designed to extract additional value from enterprise-wide AppCompat / AmCache data beyond the classic stacking and grepping techniques.
 * [APT Hunter](https://github.com/ahmedkhlief/APT-Hunter) - APT-Hunter is Threat Hunting tool for windows event logs.
-* [Beagle](https://github.com/yampelo/beagle) - Incident response and digital forensics tool which transforms security logs and data into graphs.
 * [Event Log Explorer](https://eventlogxp.com/) - Tool developed to quickly analyze log files and other data.
 * [Event Log Observer](https://lizard-labs.com/event_log_observer.aspx) - View, analyze and monitor events recorded in Microsoft Windows event logs with this GUI tool.
 * [Kaspersky CyberTrace](https://support.kaspersky.com/13850) - Threat intelligence fusion and analysis tool that integrates threat data feeds with SIEM solutions. Users can immediately leverage threat intelligence for security monitoring and incident report (IR) activities in the workflow of their existing security operations.
