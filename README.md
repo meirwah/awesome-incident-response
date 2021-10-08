@@ -189,6 +189,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Other Lists
 
 * [Awesome Forensics](https://github.com/cugu/awesome-forensics) - A curated list of awesome forensic analysis tools and resources.
+* [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) - Collection of Event ID resources useful for Digital Forensics and Incident Response
 * [Didier Stevens Suite](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 * [Eric Zimmerman Tools](https://ericzimmerman.github.io/) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
