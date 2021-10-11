@@ -3,7 +3,7 @@ name: Lint Readme
 on: [pull_request, push]
 
 jobs:
-  lint_python:
+  lint_readme:
 
     runs-on: ubuntu-latest
 
