@@ -185,6 +185,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [macOS Artifact Parsing Tool (mac_apt)](https://github.com/ydkhatri/mac_apt) - Plugin based forensics framework for quick mac triage that works on live machines, disk images or individual artifact files.
 * [OSX Auditor](https://github.com/jipegit/OSXAuditor) - Free Mac OS X computer forensics tool.
 * [OSX Collector](https://github.com/yelp/osxcollector) - OSX Auditor offshoot for live response.
+* [The ESF Playground (https://themittenmac.com/the-esf-playground/) - A tool to view the events in Apple Endpoint Security Framework (ESF) in real time.
 
 ### Other Lists
 
