@@ -116,6 +116,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [RTIR](https://www.bestpractical.com/rtir/) - Request Tracker for Incident Response (RTIR) is the premier open source incident handling system targeted for computer security teams. We worked with over a dozen CERT and CSIRT teams around the world to help you handle the ever-increasing volume of incident reports. RTIR builds on all the features of Request Tracker.
 * [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 * [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
+* [Squadcast](https://squadcast.com/) - Modern Incident Response with Intuitive Actionable Alerting and On-Call. Practice Site Reliability Engineering
+(SRE) through better Incident Management to proactively respond, resolve, and learn from every incident. 
 * [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
 
 ### Knowledge Bases
