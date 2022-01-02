@@ -83,7 +83,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Communities
 
-* [augmentd](http://augmentd.co/) - Community driven site providing a list of searches that can be implemented in and executed with a variety of common security tools.
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek) - Community of 8,000+ working professionals from Law Enforcement, Private Sector, and Forensic Vendors. Additionally, plenty of students and hobbyists! Guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/). 
 * [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR.
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
