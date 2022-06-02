@@ -77,8 +77,10 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics and Incident Response: Incident response techniques and procedures to respond to modern cyber threats](https://www.amazon.com/Digital-Forensics-Incident-Response-techniques/dp/183864900X) - by Gerard Johansen.
 * [Introduction to DFIR](https://medium.com/@sroberts/introduction-to-dfir-d35d5de4c180/) - By Scott J. Roberts.
 * [Incident Response & Computer Forensics, Third Edition](https://www.amazon.com/Incident-Response-Computer-Forensics-Third/dp/0071798684/) - The definitive guide to incident response.
+* [Incident Response Techniques for Ransomware Attacks: Understand modern ransomware attacks and build an incident response strategy to work through them])https://www.amazon.com/Incident-Response-Techniques-Ransomware-Attacks/dp/180324044X) - Explore the world of modern human-operated ransomware attacks, along with covering steps to properly investigate them and collecting and analyzing cyber threat intelligence using cutting-edge methods and tools - By Oleg Skulkin
 * [Intelligence-Driven Incident Response](https://www.amazon.com/Intelligence-Driven-Incident-Response-Outwitting-Adversary-ebook-dp-B074ZRN5T7/dp/B074ZRN5T7) - By Scott J. Roberts, Rebekah Brown.
 * [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.com/Operator-Handbook-Team-OSINT-Reference/dp/B085RR67H5/) - Great reference for incident responders.
+* [Practical Memory Forensics: Jumpstart effective forensic analysis of volatile memory](https://www.amazon.com/Practical-Memory-Forensics-Jumpstart-effective/dp/1801070334) - A practical guide to enhancing your digital investigations with cutting-edge memory forensics techniques - By Svetlana Ostrovskaya and Oleg Skulkin.
 * [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](http://www.amazon.com/gp/product/1593275099) - Richard Bejtlich's book on IR.
 
 ### Communities
