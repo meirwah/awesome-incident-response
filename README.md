@@ -142,6 +142,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Linux Evidence Collection
 
 * [FastIR Collector Linux](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artifacts on live Linux and records the results in CSV files.
+* [LEAF](https://github.com/alex-cart/LEAF) - Linux Evidence Acquisition Framework (LEAF) acquires artifacts and evidence from Linux EXT4 systems.
 
 ### Log Analysis Tools
 
