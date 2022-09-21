@@ -86,6 +86,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek) - Community of 8,000+ working professionals from Law Enforcement, Private Sector, and Forensic Vendors. Additionally, plenty of students and hobbyists! Guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/). 
 * [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - Mailing list by SANS for DFIR.
+* [Site Reliability Engineering Slack](https://slofile.com/slack/sre-community) - A slack community of Site Reliability experts and DevOps enthusiasts.
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
 
 ### Disk Image Creation Tools
@@ -121,6 +122,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 * [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 * [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+* [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
 
 ### Knowledge Bases
 
