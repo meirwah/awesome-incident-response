@@ -121,6 +121,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Sandia Cyber Omni Tracker (SCOT)](https://github.com/sandialabs/scot) - Incident Response collaboration and knowledge capture tool focused on flexibility and ease of use. Our goal is to add value to the incident response process without burdening the user.
 * [Shuffle](https://github.com/frikky/Shuffle) - A general purpose security automation platform focused on accessibility.
 * [threat_note](https://github.com/defpoint/threat_note) - Lightweight investigation notebook that allows security researchers the ability to register and retrieve indicators related to their research.
+* [Zenduty](https://www.zenduty.com) - Zenduty is a novel incident management platform providing end-to-end incident alerting, on-call management and response orchestration, giving teams greater control and automation over the incident management lifecycle.
 
 ### Knowledge Bases
 
