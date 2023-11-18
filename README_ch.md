@@ -37,7 +37,6 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - 使用一组工具与输出文件处理操作系统的 Windows 批处理脚本，使得系统看上去像被攻陷了。
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - 与 MITRE ATT＆CK 框架匹配的便携测试工具。
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) - 自动策略技术与程序。手动重复运行复杂序列进行回归测试，产品评估，为研究人员生成数据。
-* [Blue Team Training Toolkit (BT3)](https://www.bt3.no/) - 用于防御性安全培训的软件，将网络分析培训课程，事件响应演练和 Red Team 合作提升到一个新的水平。
 * [Caldera](https://github.com/mitre/caldera) - 在 Windows Enterprise 网络中攻陷系统后执行敌对行为的自动对手仿真系统。运行时的行为由计划系统和基于 ATT＆CK™ 项目预先配置的对手模型生成。
 * [DumpsterFire](https://github.com/TryCatchHCF/DumpsterFire) - DumpsterFire 工具集是一个模块化、菜单驱动的跨平台工具，用于构建可重复的分布式安全事件。创建 Blue Team 演戏与传感器报警映射关系的自定义事件链。Red Team 可以制造诱饵事件，分散防守方的注意力以支持和扩大战果。
 * [Metta](https://github.com/uber-common/metta) - 用于进行敌对模拟的信息安全防御工具。
@@ -84,7 +83,6 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 ### 社区
 
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek) -来自执法部门、私营机构等地的 8000 多名在职专业人员组成的社区。[加入指南](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/)。
-* [SANS DFIR mailing list](https://lists.sans.org/mailman/listinfo/dfir) - SANS 的 DFIR 邮件列表
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community)
 
 ### 磁盘镜像创建工具
@@ -132,7 +130,6 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [ADIA](https://forensics.cert.org/#ADIA) - Appliance for Digital Investigation and Analysis (ADIA) 是一个基于 VMware 的应用程序，用于进行数字取证。其完全由公开软件构建，包含的工具有 Autopsy\Sleuth Kit\Digital Forensics Framework\log2timeline\Xplico\Wireshark。大多数系统维护使用 Webmin。它为中小规模的数字取证设计，可在 Linux、Windows 及 Mac OS 下使用。
 * [CAINE](http://www.caine-live.net/index.html) - Computer Aided Investigative Environment (CAINE) 包含许多帮助调查人员进行分析的工具，包括取证工具。
 * [CCF-VM](https://github.com/rough007/CCF-VM) - CyLR CDQR Forensics Virtual Machine (CCF-VM): 一款多合一的解决方案，能够解析收集的数据，将它转化得易于使用內建的常见搜索，也可并行搜索一个或多个主机。
-* [DEFT](http://www.deftlinux.net/) - Digital Evidence & Forensics Toolkit (DEFT) 是一个用于计算机取证的 Linux 发行版，它与 Windows 上的 Digital Advanced Response Toolkit (DART) 捆绑在一起。DEFT 的轻量版被成为 DEFT Zero，主要关注可用于法庭质证的取证环节。
 * [NST - Network Security Toolkit](https://sourceforge.net/projects/nst/files/latest/download?source=files) - 包括大量的优秀开源网络安全应用程序的 Linux 发行版
 * [PALADIN](https://sumuri.com/software/paladin/) - PALADIN 是一个附带许多开源取证工具的改 Linux 发行版，用于以可被法庭质证的方式执行取证任务
 * [Security Onion](https://github.com/Security-Onion-Solutions/security-onion) - Security Onion 是一个特殊的 Linux 发行版，旨在利用高级的分析工具进行网络安全监控
@@ -234,7 +231,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks 集合
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 网络事件响应手册集合
 * [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 开发的事件响应方法论
-* [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - 不同的通用事件响应工作流程,例如恶意软件爆发、数据窃取、未经授权的访问等，每个工作流程都有七个步骤:准备、检测、分析、遏制、根除、恢复、事后处理。
+* [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/) - 不同的通用事件响应工作流程,例如恶意软件爆发、数据窃取、未经授权的访问等，每个工作流程都有七个步骤:准备、检测、分析、遏制、根除、恢复、事后处理。
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - 描述 PagerDuty 应急响应过程的文档，不仅提供了关于事件准备的信息，还提供了在此前与之后要做什么工作，源在 [GitHub](https://github.com/PagerDuty/incident-response-docs) 上。
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Splunk 的 Phantom 社区手册
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - 帮助开展威胁狩猎的手册
@@ -246,13 +243,12 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 
 ### 沙盒／逆向工具
 
-* [AMAaaS](https://amaaas.com/index.php/AMAaaS/dashboard) - 安卓恶意软件分析服务，在原生安卓环境中执行
 * [Any Run](https://app.any.run/) - 交互式恶意软件分析服务，对大多数类型的威胁进行静态与动态分析
 * [CAPEv2](https://github.com/kevoreilly/CAPEv2) - 恶意软件配置与 Payload 提取
 * [Cuckoo](https://github.com/cuckoosandbox/cuckoo) - 开源沙盒工具，高度可定制化
 * [Cuckoo-modified](https://github.com/spender-sandbox/cuckoo-modified) - 社区基于 Cuckoo 的大修版
 * [Cuckoo-modified-api](https://github.com/keithjjones/cuckoo-modified-api) - 一个用来控制 Cuckoo 沙盒设置的 Python 库
-* [Cutter](https://github.com/radareorg/cutter) - 由 Radare2 驱动的逆向工程框架
+* [Cutter](https://github.com/rizinorg/cutter) - 由 驱动的逆向工程框架
 * [Ghidra](https://github.com/NationalSecurityAgency/ghidra) - 软件逆向工程框架
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Hybrid-Analysis 是一个由 Payload Security 提供的免费在线沙盒
 * [Intezer](https://analyze.intezer.com/#/) - 深入分析 Windows 二进制文件，检测与已知威胁的 micro-code 相似性，以便提供准确且易于理解的结果
