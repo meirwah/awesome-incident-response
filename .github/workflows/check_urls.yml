@@ -1,5 +1,9 @@
 name: Check URLs
-on: [pull_request, push]
+on:
+  pull_request:
+  push:
+  schedule:
+    - cron: '25 5 * * 6'
 
 jobs:
   check-urls:
@@ -11,4 +15,4 @@ jobs:
     - uses: urlstechie/urlchecker-action@master
       with:
         file_types: .md
-        exclude_files: 'dfirtrack_main/tests/'
+        retry_count: 3
