@@ -231,7 +231,6 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks 集合
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - 网络事件响应手册集合
 * [IRM](https://github.com/certsocietegenerale/IRM) - CERT Societe Generale 开发的事件响应方法论
-* [IR Workflow Gallery](https://www.incidentresponse.org/playbooks/) - 不同的通用事件响应工作流程,例如恶意软件爆发、数据窃取、未经授权的访问等，每个工作流程都有七个步骤:准备、检测、分析、遏制、根除、恢复、事后处理。
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - 描述 PagerDuty 应急响应过程的文档，不仅提供了关于事件准备的信息，还提供了在此前与之后要做什么工作，源在 [GitHub](https://github.com/PagerDuty/incident-response-docs) 上。
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Splunk 的 Phantom 社区手册
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - 帮助开展威胁狩猎的手册
