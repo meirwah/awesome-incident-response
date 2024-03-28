@@ -182,7 +182,6 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [MemProcFS] (https://github.com/ufrisk/MemProcFS) - MemProcFS 是将物理内存当成虚拟文件系统进行查看的简单工具。
 * [Orochi](https://github.com/LDO-CERT/orochi) - Orochi 是一个用于协作取证内存 Dump 分析的开源框架。
 * [Rekall](http://www.rekall-forensic.com/) - 用于从 RAM 中提取样本的开源工具。
-* [Responder PRO](http://www.countertack.com/responder-pro) - Responder PRO 是一个工业级的物理内存及自动化恶意软件分析解决方案
 * [Volatility](https://github.com/volatilityfoundation/volatility) - 高级内存取证框架
 * [Volatility 3](https://github.com/volatilityfoundation/volatility3) - 易失性内存提取框架（Volatility的继任者）
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - VolatilityBot 是一个自动化工具，帮助研究员减少在二进制程序提取解析阶段的手动任务，或者帮助研究人员进行内存分析调查的第一步
