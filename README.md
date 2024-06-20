@@ -214,8 +214,10 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Other Tools
 
+* [Aperi'Solve](https://www.aperisolve.com/) - A useful image forensics tool that combines zsteg, steghide, outguess, exiftool, binwalk, foremost and strings plus layer analysis.
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
+* [Deepsound](https://github.com/Jpinsoft/DeepSound) - A Windows-based steganography audio tool
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 * [domfind](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
@@ -298,6 +300,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Videos
 
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
+* [Building an Incident Response and Forensics Homelab](https://web.archive.org/web/20220516183548/https://medium.com/@liamcs98/building-an-incident-response-and-forensics-homelab-pt1-workstation-and-file-storage-e23eca7ea57a) - A blog series on building a useful DFIR homelab.
 
 ### Windows Evidence Collection
 
