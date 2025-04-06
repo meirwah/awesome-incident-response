@@ -223,6 +223,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
+* [Jibril](https://jibril.garnet.ai) - A high-performance minimal-overhead runtime security tool with no event loss during peak loads. It features built-in detection recipes, network policy enforcement and support for containerized, Kubernetes, traditional server, and IoT environments.
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
