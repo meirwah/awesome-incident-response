@@ -19,6 +19,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 - [Log Analysis Tools](#log-analysis-tools)
 - [Memory Analysis Tools](#memory-analysis-tools)
 - [Memory Imaging Tools](#memory-imaging-tools)
+- [Network Analysis Tools](#network-analysis-tools)
 - [OSX Evidence Collection](#osx-evidence-collection)
 - [Other Lists](#other-lists)
 - [Other Tools](#other-tools)
@@ -195,6 +196,10 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [MAGNET DumpIt](https://www.magnetforensics.com/resources/magnet-dumpit-for-windows) - Fast memory acquisition tool for Windows (x86, x64, ARM64). Generate full memory crash dumps of Windows machines.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows.
 * [OSForensics](http://www.osforensics.com/) - Tool to acquire live memory on 32-bit and 64-bit systems. A dump of an individual process’s memory space or physical memory dump can be done.
+
+### Network Analysis Tools
+
+* [RedHand Online PCAP Analyzer](https://redhand.io/analyzer) - Red Hand Analyzer runs your PCAP file through an automated behavior analysis model to identify network patterns commonly associated with malicious hacker techniques, often missed by signature-based detection engines.
 
 ### OSX Evidence Collection
 
