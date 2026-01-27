@@ -238,6 +238,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
+* [Whisper](https://whisper.security) - Real-time graph intelligence platform that correlates 45 billion internet infrastructure data points (BGP routing, DNS, WHOIS, SSL/TLS) to provide threat context and reduce false positives during incident investigations.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
 ### Playbooks
