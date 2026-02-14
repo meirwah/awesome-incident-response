@@ -169,6 +169,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 * [WELA](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
 * [Zircolite](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+* [Cool-Memories](https://github.com/bad-antics/cool-memories) - Immutable forensic logging with hash-chained evidence, blockchain-anchored timestamps, and tamper-proof incident recording for digital forensics.
 
 ### Memory Analysis Tools
 
@@ -184,6 +185,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Rekall](http://www.rekall-forensic.com/) - Open source tool (and library) for the extraction of digital artifacts from volatile memory (RAM) samples.
 * [Volatility](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
 * [Volatility 3](https://github.com/volatilityfoundation/volatility3) - The volatile memory extraction framework (successor of Volatility)
+* [Hyperreal](https://github.com/bad-antics/hyperreal) - Memory forensics beyond reality — negative space analysis, entropy mapping, process hollowing detection, and filesystem temporal anomaly detection.
 * [VolatilityBot](https://github.com/mkorman90/VolatilityBot) - Automation tool for researchers cuts all the guesswork and manual tasks out of the binary extraction phase, or to help the investigator in the first steps of performing a memory analysis investigation.
 * [VolDiff](https://github.com/aim4r/VolDiff) - Malware Memory Footprint Analysis based on Volatility.
 * [WindowsSCOPE](http://www.windowsscope.com/windowsscope-cyber-forensics/) - Memory forensics and reverse engineering tool used for analyzing volatile memory offering the capability of analyzing the Windows kernel, drivers, DLLs, and virtual and physical memory.
