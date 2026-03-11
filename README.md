@@ -135,6 +135,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+* [Awesome-SOC](https://github.com/cyb3rxp/awesome-soc/) - A curated knowledge base to build, run and mature a SOC.
 
 ### Linux Distributions
 
