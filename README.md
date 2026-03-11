@@ -135,7 +135,6 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
-* [Awesome-SOC](https://github.com/cyb3rxp/awesome-soc/) - A curated knowledge base to build, run and mature a SOC.
 
 ### Linux Distributions
 
@@ -212,6 +211,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Didier Stevens Suite](https://github.com/DidierStevens/DidierStevensSuite) - Tool collection
 * [Eric Zimmerman Tools](https://ericzimmerman.github.io/) - An updated list of forensic tools created by Eric Zimmerman, an instructor for SANS institute.
 * [List of various Security APIs](https://github.com/deralexxx/security-apis) - Collective list of public JSON APIs for use in security.
+* [Awesome-SOC: critical tools for CSIRT](https://github.com/cyb3rxp/awesome-soc/blob/main/mission-critical-means.md#critical-tools-for-csirt)
 
 ### Other Tools
 
