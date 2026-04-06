@@ -4,6 +4,7 @@
 
 Digital Forensics and Incident Response (DFIR) teams are groups of people in an organization responsible for managing the response to a security incident, including gathering evidence of the incident, remediating its effects, and implementing controls to prevent the incident from recurring in the future.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts including automated incident response, security monitoring, and threat detection agents. MIT licensed.
 ## Contents
 
 - [Adversary Emulation](#adversary-emulation)
