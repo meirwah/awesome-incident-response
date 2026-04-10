@@ -32,6 +32,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ## IR Tools Collection
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=meirwah_awesome-incident-response) - Follow developers on GitHub and see what repos they star. Like a social feed for repo discovery.
 ### Adversary Emulation
 
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
