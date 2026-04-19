@@ -248,6 +248,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+* [S.I.R.T.](https://github.com/mello-io/SIRT) - Generates phase-structured incident response checklists tailored to your security stack. Covers 22 incident types with tool-specific investigation steps and MITRE ATT&CK references. Free, no SOAR required. Try it [here](https://sirt-five.vercel.app).
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ### Process Dump Tools
