@@ -281,6 +281,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Visualize_Logs](https://github.com/keithjjones/visualize_logs) - Open source visualization library and command line tools for logs (Cuckoo, Procmon, more to come).
 * [Yomi](https://yomi.yoroi.company) - Free MultiSandbox managed and hosted by Yoroi.
 
+* [HackMyIP](https://hackmyip.com/) - Free browser-based security toolkit with IP lookup, DNS lookup, port scanner, WebRTC/DNS leak tests, email breach checker, and browser fingerprinting. No installation required.
+
 ### Scanner Tools
 
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
