@@ -29,6 +29,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 - [Timeline Tools](#timeline-tools)
 - [Videos](#videos)
 - [Windows Evidence Collection](#windows-evidence-collection)
+- [KubeStellar Console](https://github.com/kubestellar/console) — Multi-cluster Kubernetes incident management console; aggregate cluster health visibility, RBAC auditing, log aggregation, and AI-assisted triage across cloud and edge environments.
 
 ## IR Tools Collection
 
