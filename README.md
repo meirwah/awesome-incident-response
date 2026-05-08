@@ -216,6 +216,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Other Tools
 
+* [CISA KEV Deadline Planner](https://kev-deadline-planner.vercel.app/) - Browser-only tool for matching pasted CVEs against a bundled CISA Known Exploited Vulnerabilities snapshot, prioritizing overdue and due-soon items, and exporting Markdown, CSV, and ICS artifacts during vulnerability and incident triage.
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
