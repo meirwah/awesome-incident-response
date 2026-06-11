@@ -135,6 +135,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+* [LERS Portal Knowledge Base (Ministry of Cyber Affairs)](https://ministryofcyberaffairs.com/lers) - Reference for platform law-enforcement data-request (LERS) portals (WhatsApp, Google, Apple, Telegram, TikTok, Binance) with eligibility and submission steps.
 
 ### Linux Distributions
 
