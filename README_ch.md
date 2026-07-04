@@ -167,6 +167,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Sigma](https://github.com/Neo23x0/sigma) - 用于 SIEM 系统的通用签名格式，已包含了许多规则
 * [StreamAlert](https://github.com/airbnb/streamalert) - 实时日志分析框架，能够配置自定义数据源并使用用户自定义的逻辑触发警报
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch 通过聚合事件日志使分析 Windows 事件日志的效率更高
+* [twsla](https://github.com/twsnmp/twsla) - 一款多功能日志分析与威胁猎杀工具。支持导入 Windows EVTX、SSH 和电子邮件日志，具备异常检测、Sigma 规则匹配以及时间线可视化功能。
 * [WELA](https://github.com/Yamato-Security/WELA) - Windows 事件日志分析器旨在打造 Windows 事件日志分析的瑞士军刀
 * [Zircolite](https://github.com/wagga40/Zircolite) - 独立、快速基于 SIGMA 的 EVTX 或 JSON 检测工具
 
