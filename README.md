@@ -35,6 +35,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Adversary Emulation
 
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
+* [ARIA](https://github.com/sidevworks/aria-sec) - Source-available, voice-native AI security operations cockpit with governed autonomy, AI-SPM, local-model support, and auditable incident response controls.
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT&CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
 * [Caldera](https://github.com/mitre/caldera) - Automated adversary emulation system that performs post-compromise adversarial behavior within Windows Enterprise networks. It generates plans during operation using a planning system and a pre-configured adversary model based on the Adversarial Tactics, Techniques & Common Knowledge (ATT&CK™) project.
