@@ -244,6 +244,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
+* * [BreachSleuth](https://github.com/breachsleuth/breachsleuth) - Offline breach data triage and AI-assisted investigation tool. Ingests folders of mixed file types, risk scores content and enables local AI analysis without data leaving the machine. Runs on Windows and Mac.
 
 ### Playbooks
 
