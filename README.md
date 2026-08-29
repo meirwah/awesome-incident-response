@@ -60,6 +60,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [IRIS](https://github.com/dfir-iris/iris-web) - IRIS is a web collaborative platform for incident response analysts allowing to share investigations at a technical level.
 * [Kuiper](https://github.com/DFIRKuiper/Kuiper) - Digital Forensics Investigation Platform
 * [Limacharlie](https://www.limacharlie.io/) - Endpoint security platform composed of a collection of small projects all working together that gives you a cross-platform (Windows, OSX, Linux, Android and iOS) low-level environment for managing and pushing additional modules into memory to extend its functionality.
+* [M365 Incident Response Console](https://github.com/fusiontechstrategies/M365-Incident-Response-Console) - Single-file PowerShell incident response console for guarded Microsoft 365 containment, investigation, and tamper-evident evidence.
 * [Matano](https://github.com/matanolabs/matano): Open source serverless security lake platform on AWS that lets you ingest, store, and analyze petabytes of security data into an Apache Iceberg data lake and run realtime Python detections as code.
 * [MozDef](https://github.com/mozilla/MozDef) - Automates the security incident handling process and facilitate the real-time activities of incident handlers.
 * [MutableSecurity](https://github.com/MutableSecurity/mutablesecurity) - CLI program for automating the setup, configuration, and use of cybersecurity solutions.
