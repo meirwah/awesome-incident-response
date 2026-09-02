@@ -112,6 +112,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [CyLR](https://github.com/orlikoski/CyLR) - The CyLR tool collects forensic artifacts from hosts with NTFS file systems quickly, securely and minimizes impact to the host.
 * [Forensic Artifacts](https://github.com/ForensicArtifacts/artifacts) - Digital Forensics Artifact Repository
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
+* [KeibiDrop](https://keibidrop.com/for/dfir.html) - Mounts a remote evidence share as a local folder over an encrypted peer-to-peer link, so a large tree can be walked, hashed and grepped before any full copy exists. Reads pull only the bytes touched, read-only is enforced on the machine holding the evidence, and neither side needs an inbound port.
 * [Live Response Collection](https://www.brimorlabs.com/tools/) - Automated tool that collects volatile data from Windows, OSX, and \*nix based operating systems.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 * [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
