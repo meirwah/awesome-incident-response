@@ -231,6 +231,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
+* [polinrider-cleaner](https://github.com/meSingh/polinrider-cleaner) - Detects and cleans up after the PolinRider supply-chain campaign on a developer machine, a GitHub account or a whole organization. Shell only, dry-run by default, restores force-pushed branches from push events.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
