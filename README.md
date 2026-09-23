@@ -11,6 +11,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 - [Books](#books)
 - [Communities](#communities)
 - [Disk Image Creation Tools](#disk-image-creation-tools)
+- [Email Analysis Tools](#email-analysis-tools)
 - [Evidence Collection](#evidence-collection)
 - [Incident Management](#incident-management)
 - [Knowledge Bases](#knowledge-bases)
@@ -102,6 +103,11 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [GetData Forensic Imager](http://www.forensicimager.com/) - Windows based program that will acquire, convert, or verify a forensic image in one of the following common forensic file formats.
 * [Guymager](http://guymager.sourceforge.net) - Free forensic imager for media acquisition on Linux.
 * [Magnet ACQUIRE](https://www.magnetforensics.com/magnet-acquire/) - ACQUIRE by Magnet Forensics allows various types of disk acquisitions to be performed on Windows, Linux, and OS X as well as mobile operating systems.
+
+### Email Analysis Tools
+
+* [Email Header Analyzer by Rafael Pfister](https://rafaelpfister.ch/en/tools/header-analyzer) - Browser-only header analysis (nothing is uploaded): Received chain with per-hop transit times, SPF/DKIM/DMARC results and alignment, ARC and spam-filter fields.
+* [Message Header Analyzer](https://mha.azurewebsites.net/) - Microsoft's web tool to parse email headers, showing the delivery path, delays and antispam headers.
 
 ### Evidence Collection
 
