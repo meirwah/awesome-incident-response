@@ -176,6 +176,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Memory Analysis Tools
 
+* [ProxSuite PRO](https://github.com/prox0959/ProxSuite-PRO) - 25-in-1 native x64 Windows live memory forensics (Module Stomping, Process Ghosting, NTDLL syscall unhooking), LSASS SSP audit, C2 Named Pipe scanner, and DFIR triage suite.
+
 * [AVML](https://github.com/microsoft/avml) - A portable volatile memory acquisition tool for Linux.
 * [Evolve](https://github.com/JamesHabben/evolve) - Web interface for the Volatility Memory Forensics Framework.
 * [inVtero.net](https://github.com/ShaneK2/inVtero.net) - Advanced memory analysis for Windows x64 with nested hypervisor support.
