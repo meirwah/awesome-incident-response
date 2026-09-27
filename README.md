@@ -306,6 +306,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Windows Evidence Collection
 
+* [OmniTriage](https://github.com/prox0959/OmniTriage) - Zero-dependency, sub-second Windows live DFIR triage engine in pure Python stdlib (ShimCache, UserAssist, Event 4104/1102, DNS cache, browser forensics).
+* [MemGuard](https://github.com/prox0959/MemGuard) - Standalone Windows LSASS handle table auditor, NTDLL syscall hook verifier, and credential dump responder.
 * [AChoir](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
 * [Crowd Response](http://www.crowdstrike.com/community-tools/) - Lightweight Windows console application designed to aid in the gathering of system information for incident response and security engagements. It features numerous modules and output formats.
 * [Cyber Triage](http://www.cybertriage.com) - Cyber Triage has a lightweight collection tool that is free to use. It collects source files (such as registry hives and event logs), but also parses them on the live host so that it can also collect the executables that the startup items, scheduled, tasks, etc. refer to. It's output is a JSON file that can be imported into the free version of Cyber Triage. Cyber Triage is made by Sleuth Kit Labs, which also makes Autopsy. 
