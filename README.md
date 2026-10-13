@@ -231,6 +231,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
+* [ransomtriage](https://github.com/redhat1032/ransomware-triage) - Offline first-hour ransomware triage CLI that identifies the likely family from ransom notes, extracts IOCs (wallets, Tor sites, contacts) and points to verified free decryptors without uploading anything.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 * [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 * [Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
