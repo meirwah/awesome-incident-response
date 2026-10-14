@@ -114,6 +114,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 * [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
 * [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
+* [persisthunt](https://github.com/raj3shp/persisthunt) - A lightweight Linux Persistence hunting & artifact collection script in Bash. It helps speed up investigations by collecting targeted persistence-related artifacts and highlighting suspicious patterns commonly associated with Linux persistence techniques.
 
 ### Incident Management
 
