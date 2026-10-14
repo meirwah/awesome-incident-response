@@ -34,6 +34,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Adversary Emulation
 
+* [Beelzebub](https://github.com/mariocandela/beelzebub) - Beelzebub is a honeypot framework that uses LLMs as a virtualization layer, making it highly secure and excellent for adversary emulation.
 * [APTSimulator](https://github.com/NextronSystems/APTSimulator) - Windows Batch script that uses a set of tools and output files to make a system look as if it was compromised.
 * [Atomic Red Team (ART)](https://github.com/redcanaryco/atomic-red-team) - Small and highly portable detection tests mapped to the MITRE ATT&CK Framework.
 * [AutoTTP](https://github.com/jymcheong/AutoTTP) - Automated Tactics Techniques & Procedures. Re-running complex sequences manually for regression tests, product evaluations, generate data for researchers.
