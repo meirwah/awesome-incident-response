@@ -287,6 +287,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Scanner Tools
 
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
+* [HackThePDF](https://hackthepdf.com) - Client-side PDF analyzer for detecting embedded JavaScript, malicious Actions, and viewing raw hex.
 * [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [Spyre](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
 
