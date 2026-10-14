@@ -171,6 +171,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 * [WELA](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
 * [Zircolite](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
+* [EVTX Inspector](https://github.com/Apurvashelar/EVTX-Inspector) - Browser-based Windows Event Log (.evtx) viewer and CSV analyzer with per-column filtering, row flagging, and multi-file investigation — runs entirely in-browser, zero upload.
 
 ### Memory Analysis Tools
 
