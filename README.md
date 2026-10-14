@@ -223,6 +223,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
+* [forensic-webhistory](https://github.com/acquiredsecurity/forensic-webhistory) - Cross-platform browser artifact extractor for history, downloads, cookies, autofill, bookmarks, login metadata, keyword searches, and extensions.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
 * [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
@@ -240,6 +241,9 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [sqhunter](https://github.com/0x4d31/sqhunter) - Threat hunter based on osquery and Salt Open (SaltStack) that can issue ad-hoc or distributed queries without the need for osquery's tls plugin. sqhunter allows you to query open network sockets and check them against threat intelligence sources.
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - Sysmon configuration file template with default high-quality event tracing
 * [sysmon-modular](https://github.com/olafhartong/sysmon-modular) - A repository of sysmon configuration modules
+* [NextronSystems sysmon-config](https://github.com/NextronSystems/sysmon-config) - Fork of SwiftOnSecurity's Sysmon configuration with additional detection coverage.
+* [THEVER1TAS sysmon-config](https://github.com/THEVER1TAS/sysmon-config) - Sysmon configuration templates with advanced event tracing and blocking.
+* [TrustedSec Sysmon Community Guide](https://github.com/trustedsec/SysmonCommunityGuide) - Community guide covering Sysmon configuration, Windows/Linux usage, event types, and examples.
 * [traceroute-circl](https://github.com/CIRCL/traceroute-circl) - Extended traceroute to support the activities of CSIRT (or CERT) operators. Usually CSIRT team have to handle incidents based on IP addresses received. Created by Computer Emergency Response Center Luxembourg.
 * [X-Ray 2.0](https://www.raymond.cc/blog/xray/) - Windows utility (poorly maintained or no longer maintained) to submit virus samples to AV vendors.
 
@@ -302,6 +306,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
 
+* [13 Cubed Digital Forensics](https://www.youtube.com/@13Cubed) - Presented by Richard Davis.
+
 ### Windows Evidence Collection
 
 * [AChoir](https://github.com/OMENScan/AChoir) - Framework/scripting tool to standardize and simplify the process of scripting live acquisition utilities for Windows.
@@ -322,3 +328,4 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
 * [RegRipper](https://github.com/keydet89/RegRipper3.0) - Open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis.
+* [SRUM-DUMP](https://github.com/markbaggett/srum-dump) - Extracts data from the Windows System Resource Utilization Management (SRUM) database and generates an Excel spreadsheet.
