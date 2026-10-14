@@ -43,6 +43,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Network Flight Simulator](https://github.com/alphasoc/flightsim) - Lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility.
 * [Red Team Automation (RTA)](https://github.com/endgameinc/RTA) - RTA provides a framework of scripts designed to allow blue teams to test their detection capabilities against malicious tradecraft, modeled after MITRE ATT&CK.
 * [RedHunt-OS](https://github.com/redhuntlabs/RedHunt-OS) - Virtual machine for adversary emulation and threat hunting.
+* [SecNav](https://secnavpro.com) - Interactive incident response and skill verification platform featuring realistic breach simulations across SOC, IR, Cloud Security, and Red Teaming scenarios.
+
 
 ### All-In-One Tools
 
