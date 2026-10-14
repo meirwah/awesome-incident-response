@@ -71,6 +71,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [TheHive](https://thehive-project.org/) - Scalable 3-in-1 open source and free solution designed to make life easier for SOCs, CSIRTs, CERTs and any information security practitioner dealing with security incidents that need to be investigated and acted upon swiftly.
 * [VanGuard](https://github.com/ridgelinecyberdefence/vanguard) - Cross-platform incident response toolkit with 28 pre-built use cases in a single zero-install binary. Collects memory, disk, network, and cloud artifacts with automated timeline generation.
 * [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
+* [Baudrillard Spectral](https://github.com/bad-antics/baudrillard-suite) - Network forensics tool with spectral decomposition for detecting covert channels, protocol anomalies, and data exfiltration patterns in traffic captures.
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
 * [Zentral](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
 
