@@ -251,6 +251,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [IRM](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale.
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
+* [Ransomware First 24 Hours Response Guide](https://traztech.ca/blog/ransomware-first-24-hours) - Step-by-step incident response guide for the first 24 hours after a ransomware incident.
+* [Data Breach 72-Hour Response Guide](https://traztech.ca/blog/what-to-do-after-a-data-breach) - Practical guide covering the first 72 hours after discovering a data breach, including notification obligations.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
 
 ### Process Dump Tools
