@@ -170,6 +170,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [StreamAlert](https://github.com/airbnb/streamalert) - Serverless, real-time log data analysis framework, capable of ingesting custom data sources and triggering alerts using user-defined logic.
 * [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - SysmonSearch makes Windows event log analysis more effective and less time consuming by aggregation of event logs.
 * [WELA](https://github.com/Yamato-Security/WELA) - Windows Event Log Analyzer aims to be the Swiss Army knife for Windows event logs.
+* [zeek-quick](https://github.com/0xPersist/zeek-quick) - Zeek log triage tool for instant analysis of conn, dns, http, and ssl logs from the terminal.
 * [Zircolite](https://github.com/wagga40/Zircolite) - A standalone and fast SIGMA-based detection tool for EVTX or JSON.
 
 ### Memory Analysis Tools
