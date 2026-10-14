@@ -94,6 +94,8 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics Discord Server](https://discordapp.com/invite/JUqe9Ek) - Community of 8,000+ working professionals from Law Enforcement, Private Sector, and Forensic Vendors. Additionally, plenty of students and hobbyists! Guide [here](https://aboutdfir.com/a-beginners-guide-to-the-digital-forensics-discord-server/).
 * [Slack DFIR channel](https://dfircommunity.slack.com) - Slack DFIR Communitiy channel - [Signup here](https://start.paloaltonetworks.com/join-our-slack-community).
 
+* [MalwareIntel Blog](https://malwareintel.es/blog/) - 192+ technical articles covering DFIR, incident response playbooks, threat hunting with Sysmon, Volatility memory forensics, and Sigma/YARA detection engineering. In Spanish.
+
 ### Disk Image Creation Tools
 
 * [AccessData FTK Imager](http://accessdata.com/product-download/?/support/adownloads#FTKImager) - Forensics tool whose main purpose is to preview recoverable data from a disk of any kind. FTK Imager can also acquire live memory and paging file on 32bit and 64bit systems.
