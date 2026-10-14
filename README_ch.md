@@ -233,6 +233,7 @@ DFIR 团队是组织中负责安全事件响应（包括事件证据、影响修
 * [Raccine](https://github.com/Neo23x0/Raccine) - 简单的勒索软件保护工具
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - 收集关于 MySQL 的取证数据
 * [Scout2](https://nccgroup.github.io/Scout2/) - 帮助 Amazon Web 服务管理员评估其安全态势的工具
+* [Sealed Rose](https://sealedrose.com/verify-video) - AI 深度伪造检测与帧取证分析平台，用于分析可疑多媒体、验证图像和视频真实性以及调查合成身份伪造事件。
 * [Stenographer](https://github.com/google/stenographer) - Stenographer 是一个数据包捕获解决方案，旨在快速将全部数据包转储到磁盘中，然后提供对这些数据包的快速访问。它存储尽可能多的历史记录并且管理磁盘的使用情况，在大小达到设定的上限时删除记录，非常适合在事件发生前与发生中捕获流量，而不是显式存储所有流量。
 * [sqhunter](https://github.com/0x4d31/sqhunter) - 一个基于 osquery 和 Salt Open (SaltStack) 的威胁捕捉工具，它无需 osquery 的 tls 插件就能发出临时的或者分布式的查询。 sqhunter 也可以查询开放的 sockets，并将它们与威胁情报进行比对。
 * [sysmon-config](https://github.com/SwiftOnSecurity/sysmon-config) - 默认高质量事件跟踪的 Sysmon 配置文件模板
