@@ -219,8 +219,10 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Cortex](https://thehive-project.org) - Cortex allows you to analyze observables such as IP and email addresses, URLs, domain names, files or hashes one by one or in bulk mode using a Web interface. Analysts can also automate these operations using its REST API.
 * [Crits](https://crits.github.io/) - Web-based tool which combines an analytic engine with a cyber threat database.
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
+* [certgrep](https://certgrep.sh) - A fast Certificate Transparency Log regex domain lookup tool
 * [domfind](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+* [Have I Been Squatted](https://haveibeensquatted.com) - A fast domain typosquatting detection tool
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
