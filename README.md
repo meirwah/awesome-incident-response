@@ -245,6 +245,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Playbooks
 
+* [Aegis Skills](https://github.com/AS-FOSS/aegis-skills) - Defensive-security audit and response playbooks written for AI coding agents to execute against codebases and Linux servers, including an incident-response lifecycle playbook, DFIR triage procedures, and detection-engineering guidance.
 * [AWS Incident Response Runbook Samples](https://github.com/aws-samples/aws-incident-response-runbooks/tree/0d9a1c0f7ad68fb2c1b2d86be8914f2069492e21) - AWS IR Runbook Samples meant to be customized per each entity using them. The three samples are: "DoS or DDoS attack", "credential leakage", and "unintended access to an Amazon S3 bucket".
 * [Counteractive Playbooks](https://github.com/counteractive/incident-response-plan-template/tree/master/playbooks) - Counteractive PLaybooks collection.
 * [GuardSIght Playbook Battle Cards](https://github.com/guardsight/gsvsoc_cirt-playbook-battle-cards) - A collection of Cyber Incident Response Playbook Battle Cards
