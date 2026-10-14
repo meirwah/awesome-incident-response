@@ -230,6 +230,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
+* [ProcDelta](https://github.com/trucule/ETDucky.ProcDelta) - Windows tool that records ETW kernel baselines (process, file, registry, network) on a known-good machine and diffs them against a suspect one to show what changed.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 * [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
