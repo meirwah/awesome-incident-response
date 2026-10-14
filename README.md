@@ -133,6 +133,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Knowledge Bases
 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+* [Malware Families Catalog](https://malware-families-catalog.systemhelpdesk.com/) - Curated encyclopedia of 2,903 malware families mapped to MITRE ATT&CK with actionable incident response playbooks, detection queries, and triage guidance.
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
