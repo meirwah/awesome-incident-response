@@ -224,6 +224,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
+* [ICHI — Internet Cyber Health Index](https://ichi.global) - Free, source-transparent daily dashboard that aggregates 40+ threat intelligence feeds (CISA KEV, Shodan, abuse.ch, Censys, and others) into a single internet security barometer — useful for situational awareness and external-condition context during incident response.
 * [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
