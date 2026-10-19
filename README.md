@@ -228,6 +228,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
+* [MTTD and MTTR Calculator](https://confrontocibernetico.com.br/en/mttd-mttr-calculator/) - Browser-local incident response metrics calculator with explicit detection, containment and recovery time boundaries, mean, median, nearest-rank P90 and downloadable summaries; available in English and Portuguese.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
 * [PyaraScanner](https://github.com/nogoodconfig/pyarascanner) - Very simple multi-threaded many-rules to many-files YARA scanning Python script for malware zoos and IR.
