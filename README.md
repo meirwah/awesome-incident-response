@@ -234,6 +234,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [rastrea2r](https://github.com/rastrea2r/rastrea2r) - Allows one to scan disks and memory for IOCs using YARA on Windows, Linux and OS X.
 * [RaQet](https://raqet.github.io/) - Unconventional remote acquisition and triaging tool that allows triage a disk of a remote computer (client) that is restarted with a purposely built forensic operating system.
 * [Raccine](https://github.com/Neo23x0/Raccine) - A Simple Ransomware Protection
+* [Red Herrings](https://redherrings.app) - Generates a different incident response lab per analyst from one case: EDR, SIEM and proxy evidence mapped to MITRE ATT&CK and NIST 800-61, with a verified answer key, timed drills and auto-grading.
 * [Stalk](https://www.percona.com/doc/percona-toolkit/2.2/pt-stalk.html) - Collect forensic data about MySQL when problems occur.
 * [Scout2](https://nccgroup.github.io/Scout2/) - Security tool that lets Amazon Web Services administrators assess their environment's security posture.
 * [Stenographer](https://github.com/google/stenographer) - Packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets. It stores as much history as it possible, managing disk usage, and deleting when disk limits are hit. It's ideal for capturing the traffic just before and during an incident, without the need explicit need to store all of the network traffic.
