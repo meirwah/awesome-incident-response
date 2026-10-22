@@ -286,6 +286,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Scanner Tools
 
+* [blastradius](https://github.com/jondot/blastradius) - Read-only IOC scanner for supply-chain incidents: finds where a bad package, file hash, runtime, CA certificate or secret landed across an org's repos, CI runs, caches, container images and laptops, with owners and cleanup steps.
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
 * [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [Spyre](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
