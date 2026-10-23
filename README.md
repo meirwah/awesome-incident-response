@@ -289,6 +289,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Fenrir](https://github.com/Neo23x0/Fenrir) - Simple IOC scanner. It allows scanning any Linux/Unix/OSX system for IOCs in plain bash. Created by the creators of THOR and LOKI.
 * [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [Spyre](https://github.com/spyre-project/spyre) - Simple YARA-based IOC scanner written in Go
+* [Zero Hunt self-check](https://github.com/ZeroHunt-org/self-check) - Read-only, offline shell/Python checks for October 2026 incidents: PHP2Shell-vulnerable PHP builds, LiteLLM 1.107.0 compromise IOCs (without starting Python) and CA trust stores still trusting the compromised eMudhra root.
 
 ### Timeline Tools
 
