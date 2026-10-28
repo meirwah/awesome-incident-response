@@ -227,6 +227,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
+* [keydrift](https://github.com/sudodrift/keydrift) - Lists the API keys on a Linux or macOS machine (env files, shell history, AI agent logs, tool configs) without printing their values, checks for evidence of specific incidents and gives a rotation order with revoke links.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
