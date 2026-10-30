@@ -73,6 +73,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Velociraptor](https://github.com/Velocidex/velociraptor) - Endpoint visibility and collection tool
 * [X-Ways Forensics](http://www.x-ways.net/forensics/) - Forensics tool for Disk cloning and imaging. It can be used to find deleted files and disk analysis.
 * [Zentral](https://github.com/zentralopensource/zentral) - Combines osquery's powerful endpoint inventory features with a flexible notification and action framework. This enables one to identify and react to changes on OS X and Linux clients.
+* [OshoosiClaw](https://github.com/oyesanyf/OshoosiClaw) - Cross-platform incident response and EDR agent in Rust with live process containment, RWX/unbacked memory forensics, automated quarantine rollback, and cryptographic Merkle evidence trails.
 
 ### Books
 
