@@ -318,6 +318,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [KAPE](https://www.kroll.com/en/services/cyber-risk/incident-response-litigation-support/kroll-artifact-parser-extractor-kape) - Kroll Artifact Parser and Extractor (KAPE) by Eric Zimmerman. A triage tool that finds the most prevalent digital artifacts and then parses them quickly. Great and thorough when time is of the essence.
 * [LOKI](https://github.com/Neo23x0/Loki) - Free IR scanner for scanning endpoint with yara rules and other indicators(IOCs).
 * [MEERKAT](https://github.com/TonyPhipps/Meerkat) - PowerShell-based triage and threat hunting for Windows.
+* [MFTDigger](https://github.com/BurakDurukan/MFTDigger) - Reads and parses NTFS $MFT files from raw images, live volumes, or standalone collections to dump, search, and safely export records with a single, zero-dependency Python script.
 * [Panorama](https://github.com/AlmCo/Panorama) - Fast incident overview on live Windows systems.
 * [PowerForensics](https://github.com/Invoke-IR/PowerForensics) - Live disk forensics platform, using PowerShell.
 * [PSRecon](https://github.com/gfoss/PSRecon/) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally.
