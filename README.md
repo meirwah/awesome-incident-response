@@ -227,6 +227,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [IPASIS](https://ipasis.com/) - Real-time IP reputation and email validation API for investigating suspicious interactions. Returns an Interaction Trust Score (0-100) combining VPN/proxy/Tor detection with email risk assessment in a single API call.
 * [imagemounter](https://github.com/ralphje/imagemounter) - Command line utility and Python package to ease the (un)mounting of forensic disk images.
 * [Kansa](https://github.com/davehull/Kansa/) - Modular incident response framework in PowerShell.
+* [Max Intel IOC Extractor](https://maxintel.org/ioc-extractor.html) - Free browser tool that extracts and refangs IOCs from reports or logs, sets private addresses aside, and exports Markdown, CSV or STIX 2.1.
 * [MFT Browser](https://github.com/kacos2000/MFT_Browser) - MFT directory tree reconstruction & record info.
 * [Munin](https://github.com/Neo23x0/munin) - Online hash checker for VirusTotal and other services.
 * [PowerSponse](https://github.com/swisscom/PowerSponse) - PowerSponse is a PowerShell module focused on targeted containment and remediation during security incident response.
