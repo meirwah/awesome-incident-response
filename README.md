@@ -135,6 +135,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
+* [Windows Security Event IDs](https://github.com/Coinetic-AI-Security/windows-security-event-ids) - Cheat sheet of the Windows security event IDs that matter for incident response: what each one means, where it is logged and what to watch for.
 
 ### Linux Distributions
 
