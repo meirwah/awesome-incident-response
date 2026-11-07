@@ -252,6 +252,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub](https://github.com/PagerDuty/incident-response-docs).
 * [Phantom Community Playbooks](https://github.com/phantomcyber/playbooks) - Phantom Community Playbooks for Splunk but also customizable for other use.
 * [ThreatHunter-Playbook](https://github.com/OTRF/ThreatHunter-Playbook) - Playbook to aid the development of techniques and hypothesis for hunting campaigns.
+* [Was My GitHub Hacked](https://github.com/Echolonius/was-my-github-hacked) - Plain 15-minute self-check for a hijacked GitHub account, and the recovery steps in order.
 
 ### Process Dump Tools
 
