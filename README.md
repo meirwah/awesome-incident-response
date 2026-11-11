@@ -300,6 +300,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 
 ### Videos
 
+* [Cyber Talks: Incident Response](https://cybertalks.org/topics/incident-response) - Unofficial index of about 669 recorded conference talks tagged incident response, searchable by event and speaker.
 * [The Future of Incident Response](https://www.youtube.com/watch?v=bDcx4UNpKNc) - Presented by Bruce Schneier at OWASP AppSecUSA 2015.
 
 ### Windows Evidence Collection
