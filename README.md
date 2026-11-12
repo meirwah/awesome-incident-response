@@ -113,6 +113,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Windows Batch script and a Unix Bash script to comprehensively collect host forensic data during incident response.
 * [Margarita Shotgun](https://github.com/ThreatResponse/margaritashotgun) - Command line utility (that works with or without Amazon EC2 instances) to parallelize remote memory acquisition.
 * [SPECTR3](https://github.com/alpine-sec/SPECTR3) - Acquire, triage and investigate remote evidence via portable iSCSI readonly access
+* [starshield-forensics](https://github.com/Ziqi/starshield-forensics) - Zero-dependency Python CLI and library for air-gapped incident response triage of Chromium IndexedDB/LevelDB write-ahead logs (`.log`), structural PNG/JPEG container provenance, and ISO-13616/Luhn financial indicators with keyed HMAC-SHA256 pseudonymization.
 * [UAC](https://github.com/tclahr/uac) - UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.
 
 ### Incident Management
