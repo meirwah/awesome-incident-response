@@ -221,6 +221,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Diffy](https://github.com/Netflix-Skunkworks/diffy) - DFIR tool developed by Netflix's SIRT that allows an investigator to quickly scope a compromise across cloud instances (Linux instances on AWS, currently) during an incident and efficiently triaging those instances for followup actions by showing differences against a baseline.
 * [domfind](https://github.com/diogo-fernan/domfind) - Python DNS crawler for finding identical domain names under different TLDs.
 * [Fileintel](https://github.com/keithjjones/fileintel) - Pull intelligence per file hash.
+* [Have I Been Ransomed?](https://haveibeenransom.com/) - Check whether an organisation's email addresses, phone numbers or domains have been leaked by ransomware gangs, stealers or traditional breaches. Search on the web or through an API.
 * [HELK](https://github.com/Cyb3rWard0g/HELK) - Threat Hunting platform.
 * [Hindsight](https://github.com/obsidianforensics/hindsight) - Internet history forensics for Google Chrome/Chromium.
 * [Hostintel](https://github.com/keithjjones/hostintel) - Pull intelligence per host.
