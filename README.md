@@ -271,6 +271,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Free powerful online sandbox by CrowdStrike.
 * [Intezer](https://analyze.intezer.com/#/) - Intezer Analyze dives into Windows binaries to detect micro-code similarities to known threats, in order to provide accurate yet easy-to-understand results.
 * [Joe Sandbox (Community)](https://www.joesandbox.com/) - Joe Sandbox detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities; providing comprehensive and detailed analysis reports.
+* [MaldocTrace](https://github.com/debugactiveprocess/MaldocTrace) - Analyzes malicious Office documents by emulating VBA and Excel 4.0 macros in a simulated environment, reporting the commands, payloads and IOCs they would produce, each traced to its source line.
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 * [Metadefender Cloud](https://www.metadefender.com) - Free threat intelligence platform providing multiscanning, data sanitization and vulnerability assessment of files.
 * [Radare2](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
