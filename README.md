@@ -133,6 +133,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 ### Knowledge Bases
 
 * [Digital Forensics Artifact Knowledge Base](https://github.com/ForensicArtifacts/artifacts-kb) - Digital Forensics Artifact Knowledge Base
+* * [MITRE ATT&CK Analyst Study Guide](https://github.com/mahialjaber/mitre-attack-study-guide) - Single-page offline ATT&CK reference and study guide with an interactive matrix, 20 threat hunts, and 28 LOLBin argument decoders.
 * [Windows Events Attack Samples](https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES) - Windows Events Attack Samples
 * [Windows Registry Knowledge Base](https://github.com/libyal/winreg-kb) - Windows Registry Knowledge Base
 
