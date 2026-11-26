@@ -276,6 +276,7 @@ Digital Forensics and Incident Response (DFIR) teams are groups of people in an 
 * [Mastiff](https://github.com/KoreLogicSecurity/mastiff) - Static analysis framework that automates the process of extracting key characteristics from a number of different file formats.
 * [Metadefender Cloud](https://www.metadefender.com) - Free threat intelligence platform providing multiscanning, data sanitization and vulnerability assessment of files.
 * [Radare2](https://github.com/radareorg/radare2) - Reverse engineering framework and command-line toolset.
+* [REA](https://github.com/morluto/rea) - Local CLI and MCP server for static binary triage, including file metadata, imports, and hardening flags with supporting evidence.
 * [Reverse.IT](https://www.reverse.it/) - Alternative domain for the Hybrid-Analysis tool provided by CrowdStrike.
 * [Rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset
 * [StringSifter](https://github.com/fireeye/stringsifter) - A machine learning tool that ranks strings based on their relevance for malware analysis.
